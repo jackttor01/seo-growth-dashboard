@@ -1,4 +1,4 @@
-# jyf-metal.com 季度报告（2026-05_to_2026-07） 数据总结
+# jyf-metal.com quarterly（2026-05_to_2026-07） 数据总结
 
 - 网站：jyf-metal.com
 - 周期：2026-05 至 2026-07
@@ -9,11 +9,10 @@
 1. 近期有 14356 个关键词开始有排名，平均排名 13.4。
 2. 关键词 jyf 排名 6；关键词 fliesenleisten 排名 3。
 3. 谷歌自然展示次数 692805 次，点击次数 6598 次，CTR 0.95%。
-4. 访问来源以自然搜索，其次是直接访问为主；流量较高的页面为/fr/stainless-steel-water-ripple-metal-sheet，其次是/stainless-steel-water-ripple-metal-sheet。
+4. 访问来源以 自然搜索，其次是直接访问 为主；流量较高的页面为 /fr/stainless-steel-water-ripple-metal-sheet，其次是/stainless-steel-water-ripple-metal-sheet。
 5. 社媒建议持续更新与产品、案例相关的帖子，为网站引流。
 6. 访问较多的国家/地区是 China。
 7. 建议每周保持 2–4 篇网站博客和产品更新。
-8. 本季度报告未进行上个季度（2026-02 至 2026-04）对比：暂无上一等长周期归档数据，本报告仅总结本期数据。
 
 ## 补充指标
 
