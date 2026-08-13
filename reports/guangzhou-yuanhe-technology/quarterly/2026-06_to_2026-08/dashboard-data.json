@@ -10363,19 +10363,19 @@
       "label": "2026-08",
       "period": [
         "2026-08-01",
-        "2026-08-12"
+        "2026-08-31"
       ],
       "metrics": {
         "clicks": 4,
         "impressions": 1014,
         "ctr": 0.39,
         "averagePosition": 14.09,
-        "totalUsers": 42,
+        "totalUsers": 44,
         "pageViews": 114,
-        "sessions": 60,
-        "averageSessionDuration": 177.9,
-        "averageEngagementTimePerSession": 22.7,
-        "bounceRate": 56.67,
+        "sessions": 62,
+        "averageSessionDuration": 172.16,
+        "averageEngagementTimePerSession": 22.19,
+        "bounceRate": 58.06,
         "keyEvents": 2,
         "indexedPages": 0,
         "inspectedPages": 0
@@ -10769,15 +10769,15 @@
       "channels": [
         {
           "sessionDefaultChannelGroup": "Direct",
-          "sessions": 30,
+          "sessions": 31,
           "engagedSessions": 14,
-          "totalUsers": 15,
+          "totalUsers": 16,
           "screenPageViews": 70,
-          "averageSessionDuration": 290.080802,
+          "averageSessionDuration": 280.723356,
           "userEngagementDuration": 729,
-          "bounceRate": 0.533333,
+          "bounceRate": 0.548387,
           "keyEvents": 0,
-          "averageEngagementTimePerSession": 24.3
+          "averageEngagementTimePerSession": 23.52
         },
         {
           "sessionDefaultChannelGroup": "Organic Social",
@@ -10805,15 +10805,15 @@
         },
         {
           "sessionDefaultChannelGroup": "Unassigned",
-          "sessions": 4,
+          "sessions": 5,
           "engagedSessions": 0,
-          "totalUsers": 3,
+          "totalUsers": 4,
           "screenPageViews": 13,
-          "averageSessionDuration": 146.902674,
-          "userEngagementDuration": 299,
+          "averageSessionDuration": 117.52214,
+          "userEngagementDuration": 313,
           "bounceRate": 1,
           "keyEvents": 0,
-          "averageEngagementTimePerSession": 74.75
+          "averageEngagementTimePerSession": 62.6
         },
         {
           "sessionDefaultChannelGroup": "Cross-network",
@@ -10831,15 +10831,15 @@
       "sources": [
         {
           "sessionSource": "(direct)",
-          "sessions": 30,
+          "sessions": 31,
           "engagedSessions": 14,
-          "totalUsers": 15,
+          "totalUsers": 16,
           "screenPageViews": 70,
-          "averageSessionDuration": 290.080802,
+          "averageSessionDuration": 280.723356,
           "userEngagementDuration": 729,
-          "bounceRate": 0.533333,
+          "bounceRate": 0.548387,
           "keyEvents": 0,
-          "averageEngagementTimePerSession": 24.3
+          "averageEngagementTimePerSession": 23.52
         },
         {
           "sessionSource": "facebook.com",
@@ -10855,15 +10855,15 @@
         },
         {
           "sessionSource": "(not set)",
-          "sessions": 4,
+          "sessions": 5,
           "engagedSessions": 0,
-          "totalUsers": 3,
+          "totalUsers": 4,
           "screenPageViews": 13,
-          "averageSessionDuration": 146.902674,
-          "userEngagementDuration": 299,
+          "averageSessionDuration": 117.52214,
+          "userEngagementDuration": 313,
           "bounceRate": 1,
           "keyEvents": 0,
-          "averageEngagementTimePerSession": 74.75
+          "averageEngagementTimePerSession": 62.6
         },
         {
           "sessionSource": "google",
@@ -10963,6 +10963,13 @@
           "averageEngagementTimePerSession": 0.0
         },
         {
+          "country": "Singapore",
+          "sessions": 2,
+          "totalUsers": 2,
+          "engagedSessions": 1,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
           "country": "(not set)",
           "sessions": 1,
           "totalUsers": 1,
@@ -10971,6 +10978,13 @@
         },
         {
           "country": "Belarus",
+          "sessions": 1,
+          "totalUsers": 1,
+          "engagedSessions": 0,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Canada",
           "sessions": 1,
           "totalUsers": 1,
           "engagedSessions": 0,
@@ -11013,13 +11027,6 @@
         },
         {
           "country": "Philippines",
-          "sessions": 1,
-          "totalUsers": 1,
-          "engagedSessions": 1,
-          "averageEngagementTimePerSession": 0.0
-        },
-        {
-          "country": "Singapore",
           "sessions": 1,
           "totalUsers": 1,
           "engagedSessions": 1,
@@ -11727,10 +11734,395 @@
           "bounceRate": 1,
           "keyEvents": 0,
           "averageEngagementTimePerSession": 27.33
+        },
+        {
+          "date": "20260813",
+          "sessions": 2,
+          "engagedSessions": 0,
+          "totalUsers": 2,
+          "screenPageViews": 0,
+          "averageSessionDuration": 0,
+          "userEngagementDuration": 14,
+          "bounceRate": 1,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 7.0
         }
       ],
-      "marketKeywords": [],
-      "serpDetail": null,
+      "marketKeywords": [
+        {
+          "query": "industrial automation wiring",
+          "clicks": 0,
+          "impressions": 63,
+          "ctr": 0.0,
+          "position": 32.92,
+          "selection_reason": "Highest relevant non-brand GSC impressions; commercial product fit and ranking headroom",
+          "keyword": "industrial automation wiring",
+          "search_volume": null,
+          "cpc": null,
+          "competition": null,
+          "competition_index": null,
+          "monthly_searches": null
+        },
+        {
+          "query": "wire harness manufacturing",
+          "clicks": 0,
+          "impressions": 39,
+          "ctr": 0.0,
+          "position": 58.72,
+          "selection_reason": "Strong GSC visibility and direct fit with manufacturing capability",
+          "keyword": "wire harness manufacturing",
+          "search_volume": 880,
+          "cpc": 17.17,
+          "competition": "LOW",
+          "competition_index": 29,
+          "monthly_searches": [
+            {
+              "year": 2026,
+              "month": 6,
+              "search_volume": 880
+            },
+            {
+              "year": 2026,
+              "month": 5,
+              "search_volume": 720
+            },
+            {
+              "year": 2026,
+              "month": 4,
+              "search_volume": 1000
+            },
+            {
+              "year": 2026,
+              "month": 3,
+              "search_volume": 1000
+            },
+            {
+              "year": 2026,
+              "month": 2,
+              "search_volume": 880
+            },
+            {
+              "year": 2026,
+              "month": 1,
+              "search_volume": 720
+            },
+            {
+              "year": 2025,
+              "month": 12,
+              "search_volume": 590
+            },
+            {
+              "year": 2025,
+              "month": 11,
+              "search_volume": 1900
+            },
+            {
+              "year": 2025,
+              "month": 10,
+              "search_volume": 880
+            },
+            {
+              "year": 2025,
+              "month": 9,
+              "search_volume": 1000
+            },
+            {
+              "year": 2025,
+              "month": 8,
+              "search_volume": 880
+            },
+            {
+              "year": 2025,
+              "month": 7,
+              "search_volume": 880
+            }
+          ]
+        },
+        {
+          "query": "shielded encoder cable",
+          "clicks": 0,
+          "impressions": 22,
+          "ctr": 0.0,
+          "position": 31.82,
+          "selection_reason": "Specific product-intent query with existing GSC exposure",
+          "keyword": "shielded encoder cable",
+          "search_volume": 50,
+          "cpc": 2.25,
+          "competition": "HIGH",
+          "competition_index": 82,
+          "monthly_searches": [
+            {
+              "year": 2026,
+              "month": 6,
+              "search_volume": 30
+            },
+            {
+              "year": 2026,
+              "month": 5,
+              "search_volume": 30
+            },
+            {
+              "year": 2026,
+              "month": 4,
+              "search_volume": 50
+            },
+            {
+              "year": 2026,
+              "month": 3,
+              "search_volume": 70
+            },
+            {
+              "year": 2026,
+              "month": 2,
+              "search_volume": 50
+            },
+            {
+              "year": 2026,
+              "month": 1,
+              "search_volume": 70
+            },
+            {
+              "year": 2025,
+              "month": 12,
+              "search_volume": 70
+            },
+            {
+              "year": 2025,
+              "month": 11,
+              "search_volume": 30
+            },
+            {
+              "year": 2025,
+              "month": 10,
+              "search_volume": 70
+            },
+            {
+              "year": 2025,
+              "month": 9,
+              "search_volume": 110
+            },
+            {
+              "year": 2025,
+              "month": 8,
+              "search_volume": 20
+            },
+            {
+              "year": 2025,
+              "month": 7,
+              "search_volume": 20
+            }
+          ]
+        },
+        {
+          "query": "wire harness components",
+          "clicks": 0,
+          "impressions": 21,
+          "ctr": 0.0,
+          "position": 21.14,
+          "selection_reason": "Near-page-two informational-commercial opportunity with measurable GSC exposure",
+          "keyword": "wire harness components",
+          "search_volume": 40,
+          "cpc": null,
+          "competition": "MEDIUM",
+          "competition_index": 47,
+          "monthly_searches": [
+            {
+              "year": 2026,
+              "month": 6,
+              "search_volume": 20
+            },
+            {
+              "year": 2026,
+              "month": 5,
+              "search_volume": 30
+            },
+            {
+              "year": 2026,
+              "month": 4,
+              "search_volume": 30
+            },
+            {
+              "year": 2026,
+              "month": 3,
+              "search_volume": 50
+            },
+            {
+              "year": 2026,
+              "month": 2,
+              "search_volume": 50
+            },
+            {
+              "year": 2026,
+              "month": 1,
+              "search_volume": 30
+            },
+            {
+              "year": 2025,
+              "month": 12,
+              "search_volume": 30
+            },
+            {
+              "year": 2025,
+              "month": 11,
+              "search_volume": 40
+            },
+            {
+              "year": 2025,
+              "month": 10,
+              "search_volume": 70
+            },
+            {
+              "year": 2025,
+              "month": 9,
+              "search_volume": 50
+            },
+            {
+              "year": 2025,
+              "month": 8,
+              "search_volume": 40
+            },
+            {
+              "year": 2025,
+              "month": 7,
+              "search_volume": 50
+            }
+          ]
+        },
+        {
+          "query": "automotive wiring harness manufacturers",
+          "clicks": 0,
+          "impressions": 7,
+          "ctr": 0.0,
+          "position": 23.71,
+          "selection_reason": "High commercial intent and close alignment with the automotive offering",
+          "keyword": "automotive wiring harness manufacturers",
+          "search_volume": 210,
+          "cpc": 9.68,
+          "competition": "MEDIUM",
+          "competition_index": 40,
+          "monthly_searches": [
+            {
+              "year": 2026,
+              "month": 6,
+              "search_volume": 210
+            },
+            {
+              "year": 2026,
+              "month": 5,
+              "search_volume": 170
+            },
+            {
+              "year": 2026,
+              "month": 4,
+              "search_volume": 170
+            },
+            {
+              "year": 2026,
+              "month": 3,
+              "search_volume": 260
+            },
+            {
+              "year": 2026,
+              "month": 2,
+              "search_volume": 210
+            },
+            {
+              "year": 2026,
+              "month": 1,
+              "search_volume": 210
+            },
+            {
+              "year": 2025,
+              "month": 12,
+              "search_volume": 170
+            },
+            {
+              "year": 2025,
+              "month": 11,
+              "search_volume": 480
+            },
+            {
+              "year": 2025,
+              "month": 10,
+              "search_volume": 170
+            },
+            {
+              "year": 2025,
+              "month": 9,
+              "search_volume": 590
+            },
+            {
+              "year": 2025,
+              "month": 8,
+              "search_volume": 140
+            },
+            {
+              "year": 2025,
+              "month": 7,
+              "search_volume": 140
+            }
+          ]
+        }
+      ],
+      "serpDetail": {
+        "keyword": "industrial automation wiring",
+        "status_code": 20000,
+        "status_message": "Ok.",
+        "cost": 0.002,
+        "task_status_code": 20000,
+        "task_status_message": "Ok.",
+        "organic_results": [
+          {
+            "rank": 3,
+            "domain": "www.iewc.com",
+            "title": "Expert Guide to Industrial Automation Cables",
+            "url": "https://www.iewc.com/resources/technical-guide/industrial-automation-cables?srsltid=AfmBOoqxzfx1cxA73amONQ6_T7pTIC76EgPhfyw2R7mZ4HrycQ39Tlb-",
+            "description": "Automation cables carry information and signals between machinery components to assist in the automation process. The cables and wires transmit signals to ... Read more"
+          },
+          {
+            "rank": 4,
+            "domain": "www.reddit.com",
+            "title": "Is there a guide to wiring industrial automation panels ...",
+            "url": "https://www.reddit.com/r/AskEngineers/comments/31vsfz/is_there_a_guide_to_wiring_industrial_automation/",
+            "description": "I'm an ME in a factory, and I occasionally have to do some wiring. It is all 24 volts, things like laser sensors and IO expanders and the like going ..."
+          },
+          {
+            "rank": 6,
+            "domain": "literature.rockwellautomation.com",
+            "title": "1770-4.1, Industrial Automation Wiring and Grounding ...",
+            "url": "https://literature.rockwellautomation.com/idc/groups/literature/documents/in/1770-in041_-en-p.pdf",
+            "description": "Feb 1, 1998 — install a bonding wire. You can connect the power supply directly to the secondary of a transformer (Figures 7 and 8)."
+          },
+          {
+            "rank": 8,
+            "domain": "jhfoster.com",
+            "title": "The Essentials of Industrial Control Panel Wiring",
+            "url": "https://jhfoster.com/automation-blogs/the-essentials-of-industrial-control-panel-wiring/",
+            "description": "Industrial control panels are used to monitor and control automated industrial equipment. Common functions include turning equipment on and off, regulating ... Read more"
+          },
+          {
+            "rank": 9,
+            "domain": "www.harting.com",
+            "title": "Industrial Automation Connectors & Cables",
+            "url": "https://www.harting.com/en-US/industrial-automation",
+            "description": "Plug-and-go connectors power more productivity, less downtime. Connector-based wiring over hardwiring has benefits at every stage of industrial machinery."
+          },
+          {
+            "rank": 10,
+            "domain": "www.scribd.com",
+            "title": "Industrial Automation Wiring Guide | PDF",
+            "url": "https://www.scribd.com/document/980241179/Industrial-Automation-Wiring-Guide",
+            "description": "The document provides a comprehensive guide on wiring for industrial automation systems, covering power supply, PLC, VFD, servo drive, sensors, actuators, HMI,"
+          },
+          {
+            "rank": 11,
+            "domain": "www.facebook.com",
+            "title": "Industrial Automation Control Panel Setup and Wiring ...",
+            "url": "https://www.facebook.com/groups/1879351552280292/posts/4325461547669268/",
+            "description": "The wiring is color-coded: Red = positive or phase Blue = neutral Green/yellow = grounding. Industrial panel wiring plays a critical role in ..."
+          }
+        ]
+      },
       "pages": [
         {
           "page": "https://www.topfastwire.com/",
@@ -11739,8 +12131,8 @@
           "impressions": 58,
           "ctr": 1.7241,
           "position": 9.3966,
-          "sessions": 2,
-          "users": 2,
+          "sessions": 4,
+          "users": 4,
           "views": 0,
           "bounceRate": 100.0,
           "averageSessionDuration": 0.0,
@@ -14039,13 +14431,13 @@
         "impressions": 7628.0,
         "ctr": 0.5375,
         "averagePosition": 16.6178,
-        "sessions": 366.0,
-        "totalUsers": 264.0,
+        "sessions": 368.0,
+        "totalUsers": 266.0,
         "pageViews": 828.0,
         "keyEvents": 3.0,
-        "bounceRate": 48.088,
-        "averageSessionDuration": 203.2956,
-        "averageEngagementTimePerSession": 36.3318
+        "bounceRate": 48.3689,
+        "averageSessionDuration": 202.1905,
+        "averageEngagementTimePerSession": 36.1718
       }
     },
     "previous": null
@@ -14053,17 +14445,17 @@
   "reportGa4": {
     "period": [
       "2026-06-01",
-      "2026-08-12"
+      "2026-08-31"
     ],
-    "sessions": 366.0,
+    "sessions": 368.0,
     "keyEvents": 3.0,
-    "averageEngagementTimePerSession": 36.3318,
+    "averageEngagementTimePerSession": 36.1718,
     "channels": [
       {
         "sessionDefaultChannelGroup": "Direct",
-        "sessions": 204.0,
+        "sessions": 205.0,
         "keyEvents": 0.0,
-        "averageEngagementTimePerSession": 37.9715
+        "averageEngagementTimePerSession": 37.7869
       },
       {
         "sessionDefaultChannelGroup": "Organic Search",
@@ -14091,9 +14483,9 @@
       },
       {
         "sessionDefaultChannelGroup": "Unassigned",
-        "sessions": 4.0,
+        "sessions": 5.0,
         "keyEvents": 0.0,
-        "averageEngagementTimePerSession": 74.75
+        "averageEngagementTimePerSession": 62.6
       },
       {
         "sessionDefaultChannelGroup": "Cross-network",
@@ -14105,9 +14497,9 @@
     "sources": [
       {
         "sessionSource": "(direct)",
-        "sessions": 204.0,
+        "sessions": 205.0,
         "keyEvents": 0.0,
-        "averageEngagementTimePerSession": 37.9715
+        "averageEngagementTimePerSession": 37.7869
       },
       {
         "sessionSource": "google",
@@ -14146,16 +14538,16 @@
         "averageEngagementTimePerSession": 0.3333
       },
       {
+        "sessionSource": "(not set)",
+        "sessions": 5.0,
+        "keyEvents": 0.0,
+        "averageEngagementTimePerSession": 62.6
+      },
+      {
         "sessionSource": "tfoow.com",
         "sessions": 5.0,
         "keyEvents": 0.0,
         "averageEngagementTimePerSession": 0.2
-      },
-      {
-        "sessionSource": "(not set)",
-        "sessions": 4.0,
-        "keyEvents": 0.0,
-        "averageEngagementTimePerSession": 74.75
       },
       {
         "sessionSource": "glownews.co.uk",
@@ -14244,12 +14636,12 @@
         ]
       },
       "detected": {
-        "canonical_sessions": 366.0,
-        "channel_sessions": 368.0,
-        "source_sessions": 368.0,
+        "canonical_sessions": 368.0,
+        "channel_sessions": 370.0,
+        "source_sessions": 370.0,
         "canonical_key_events": 3.0,
         "channel_key_events": 3.0,
-        "session_tolerance": 18.3,
+        "session_tolerance": 18.4,
         "event_tolerance": 1.0
       },
       "impact": "报告期 GA4 会话与关键事件继续采用无维度官方总计；渠道和来源行仅作为维度分布明细，不反向覆盖核心 KPI。",
@@ -14263,7 +14655,7 @@
         "report": "unchanged",
         "publish": "not_started"
       },
-      "user_message": "执行状态：需注意（GA4_DIMENSION_TOTAL_APPROXIMATION）。\n问题位置：第一方指标汇总。\n已验证：{\"canonical_key_events\": 3.0, \"canonical_sessions\": 366.0, \"channel_key_events\": 3.0, \"channel_sessions\": 368.0, \"event_tolerance\": 1.0, \"session_tolerance\": 18.3, \"source_sessions\": 368.0}。\n影响：报告期 GA4 会话与关键事件继续采用无维度官方总计；渠道和来源行仅作为维度分布明细，不反向覆盖核心 KPI。\n安全处理：保留原始 GA4/GSC 归档；未用渠道行合计覆盖报告期 KPI\n下一步：在后续报告期持续观察差异；若超过安全阈值，停止生成并复核 GA4 查询与数据质量。"
+      "user_message": "执行状态：需注意（GA4_DIMENSION_TOTAL_APPROXIMATION）。\n问题位置：第一方指标汇总。\n已验证：{\"canonical_key_events\": 3.0, \"canonical_sessions\": 368.0, \"channel_key_events\": 3.0, \"channel_sessions\": 370.0, \"event_tolerance\": 1.0, \"session_tolerance\": 18.4, \"source_sessions\": 370.0}。\n影响：报告期 GA4 会话与关键事件继续采用无维度官方总计；渠道和来源行仅作为维度分布明细，不反向覆盖核心 KPI。\n安全处理：保留原始 GA4/GSC 归档；未用渠道行合计覆盖报告期 KPI\n下一步：在后续报告期持续观察差异；若超过安全阈值，停止生成并复核 GA4 查询与数据质量。"
     },
     {
       "status": "warning",
@@ -14314,8 +14706,8 @@
       "detected": {
         "inProgress": true,
         "naturalMonthEnd": "2026-08-31",
-        "archivePeriodEnd": "2026-08-12",
-        "ga4Through": "2026-08-12",
+        "archivePeriodEnd": "2026-08-31",
+        "ga4Through": "2026-08-13",
         "gscThrough": "2026-08-10"
       },
       "impact": "报告包含尚未结束的月份；累计值只能解释为截至已采集日期的阶段性结果，不能与完整自然月直接等同。",
@@ -14329,15 +14721,87 @@
         "report": "unchanged",
         "publish": "not_started"
       },
-      "user_message": "执行状态：需注意（IN_PROGRESS_MONTH_PARTIAL）。\n问题位置：归档校验。\n已验证：{\"archivePeriodEnd\": \"2026-08-12\", \"ga4Through\": \"2026-08-12\", \"gscThrough\": \"2026-08-10\", \"inProgress\": true, \"naturalMonthEnd\": \"2026-08-31\"}。\n影响：报告包含尚未结束的月份；累计值只能解释为截至已采集日期的阶段性结果，不能与完整自然月直接等同。\n安全处理：在报告周期中标注进行中；分别披露 GA4 与 GSC 的数据截至日期\n下一步：月份结束且 Google 数据稳定后重新采集该月，再生成最终完整月份版本。"
+      "user_message": "执行状态：需注意（IN_PROGRESS_MONTH_PARTIAL）。\n问题位置：归档校验。\n已验证：{\"archivePeriodEnd\": \"2026-08-31\", \"ga4Through\": \"2026-08-13\", \"gscThrough\": \"2026-08-10\", \"inProgress\": true, \"naturalMonthEnd\": \"2026-08-31\"}。\n影响：报告包含尚未结束的月份；累计值只能解释为截至已采集日期的阶段性结果，不能与完整自然月直接等同。\n安全处理：在报告周期中标注进行中；分别披露 GA4 与 GSC 的数据截至日期\n下一步：月份结束且 Google 数据稳定后重新采集该月，再生成最终完整月份版本。"
     }
   ],
+  "strategyOpportunities": {
+    "archiveMonth": "2026-08",
+    "collectedAt": "2026-08-13T11:29:03+08:00",
+    "location": "United States",
+    "language": "English",
+    "disclaimer": "第三方策略发现，不替代 GSC / GA4 / DataForSEO 核心指标。候选竞品，尚未确认。",
+    "priorityOpportunities": [],
+    "domainKeywords": [
+      {
+        "keyword": "wire harness definition",
+        "rank": 19,
+        "url": "https://www.topfastwire.com/what-is-a-wire-harness/",
+        "trafficEstimate": 0.297
+      },
+      {
+        "keyword": "wiring harness definition",
+        "rank": 23,
+        "url": "https://www.topfastwire.com/what-is-a-wire-harness/",
+        "trafficEstimate": 0.231
+      },
+      {
+        "keyword": "wire harness meaning",
+        "rank": 29,
+        "url": "https://www.topfastwire.com/what-is-a-wire-harness/",
+        "trafficEstimate": 0.231
+      },
+      {
+        "keyword": "electrical harness meaning",
+        "rank": 39,
+        "url": "https://www.topfastwire.com/what-is-a-wire-harness/",
+        "trafficEstimate": 0.231
+      },
+      {
+        "keyword": "wiring harness problems",
+        "rank": 65,
+        "url": "https://www.topfastwire.com/equipment-wiring-harness-troubleshooting-guide/",
+        "trafficEstimate": 0.189
+      }
+    ],
+    "competitorDirections": [
+      {
+        "competitor": "iewc.com",
+        "keyword": "14 4 tray cable",
+        "intent": "transactional",
+        "pageType": "分类/产品专题页"
+      },
+      {
+        "competitor": "iewc.com",
+        "keyword": "14-4 tray cable",
+        "intent": "transactional",
+        "pageType": "分类/产品专题页"
+      },
+      {
+        "competitor": "iewc.com",
+        "keyword": "14/4 tray cable",
+        "intent": "transactional",
+        "pageType": "分类/产品专题页"
+      },
+      {
+        "competitor": "iewc.com",
+        "keyword": "12 cable",
+        "intent": "transactional",
+        "pageType": "主题聚合页"
+      },
+      {
+        "competitor": "iewc.com",
+        "keyword": "16 awg 3 conductor cable",
+        "intent": "transactional",
+        "pageType": "分类/产品专题页"
+      }
+    ]
+  },
   "report": {
     "type": "quarterly",
     "typeLabel": "季度报告",
     "label": "2026-06_to_2026-08",
     "domain": "topfastwire.com",
-    "rangeLabel": "2026-06 至 2026-08（进行中；GA4 截至 2026-08-12，GSC 截至 2026-08-10）",
+    "rangeLabel": "2026-06 至 2026-08（进行中；GA4 截至 2026-08-13，GSC 截至 2026-08-10）",
     "selectedMonths": [
       "2026-06",
       "2026-07",
@@ -14346,8 +14810,8 @@
     "coverage": {
       "inProgress": true,
       "naturalMonthEnd": "2026-08-31",
-      "archivePeriodEnd": "2026-08-12",
-      "ga4Through": "2026-08-12",
+      "archivePeriodEnd": "2026-08-31",
+      "ga4Through": "2026-08-13",
       "gscThrough": "2026-08-10"
     },
     "comparison": {
@@ -14372,8 +14836,8 @@
       },
       {
         "period": "61–90 天",
-        "title": "改善 /automotive-wiring-harness-manufacturers-2026 的访问承接",
-        "copy": "完整报告期该页有 7 次会话，跳出率 57.14%。优化首屏价值说明、相关内容入口和询盘 CTA，提升访问后的下一步行动。",
+        "title": "改善 / 的访问承接",
+        "copy": "完整报告期该页有 7 次会话，跳出率 71.43%。优化首屏价值说明、相关内容入口和询盘 CTA，提升访问后的下一步行动。",
         "kpi": "观察：跳出率、平均互动时长、CTA 点击与关键事件"
       }
     ]
