@@ -9318,5 +9318,45 @@
         "kpi": "观察：跳出率、平均互动时长、CTA 点击与关键事件"
       }
     ]
+  },
+  "strategyOpportunities": {
+    "archiveMonth": "2026-08",
+    "collectedAt": "2026-08-15T06:59:11.484Z",
+    "location": "United States",
+    "language": "English",
+    "disclaimer": "第三方策略发现，不替代 GSC / GA4 / DataForSEO 核心指标。候选竞品，尚未确认。",
+    "priorityOpportunities": [
+      {
+        "keyword": "4x8 sheet stainless steel",
+        "currentRank": null,
+        "matchedUrl": null,
+        "recommendation": "作为 P2 观察词，等待更多业务或排名信号",
+        "pageType": "产品/服务落地页",
+        "intent": "transactional"
+      },
+      {
+        "keyword": "stainless steel column wraps",
+        "currentRank": null,
+        "matchedUrl": null,
+        "recommendation": "作为 P2 观察词，等待更多业务或排名信号",
+        "pageType": "产品/服务落地页",
+        "intent": "commercial"
+      }
+    ],
+    "domainKeywords": [
+      {
+        "keyword": "découpe au laser",
+        "rank": 24,
+        "url": "https://www.asiametalfab.com/fr/what-is-laser-cutting-process-types-benefits-and-uses-explained/",
+        "trafficEstimate": 3.3600001335144043
+      },
+      {
+        "keyword": "stainless steel sculpture",
+        "rank": 90,
+        "url": "https://www.asiametalfab.com/top-10-stainless-steel-sculpture-designs-to-elevate-your-outdoor-space/",
+        "trafficEstimate": 1.5120000839233398
+      }
+    ],
+    "competitorDirections": []
   }
 }
