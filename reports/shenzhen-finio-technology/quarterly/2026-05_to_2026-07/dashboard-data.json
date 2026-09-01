@@ -102,6 +102,7 @@
           "averageEngagementTimePerSession": 0.0
         }
       ],
+      "ga4OrganicSearchCountries": [],
       "countries": [
         {
           "clicks": 1,
@@ -999,6 +1000,7 @@
           "averageEngagementTimePerSession": 0.0
         }
       ],
+      "ga4OrganicSearchCountries": [],
       "countries": [
         {
           "clicks": 5,
@@ -5136,6 +5138,7 @@
           "averageEngagementTimePerSession": 0.0
         }
       ],
+      "ga4OrganicSearchCountries": [],
       "countries": [
         {
           "clicks": 3,
@@ -10106,19 +10109,19 @@
       {
         "period": "1–30 天",
         "title": "提升 /3d-printing-services 的搜索点击率",
-        "copy": "完整报告期该页获得 323 次曝光、0 次点击，CTR 0.00%，平均排名第 73.8 位。优先优化标题、描述、首屏卖点与询盘入口。",
+        "copy": "指定报告期该页获得 323 次曝光、0 次点击，CTR 0.00%，平均排名第 73.8 位。优先优化标题、描述、首屏卖点与询盘入口。",
         "kpi": "观察：该页曝光、CTR、自然点击与询盘关键事件"
       },
       {
         "period": "31–60 天",
         "title": "推进“functional testing prototype”的自然排名",
-        "copy": "该词在完整报告期累计 74 次曝光、0 次点击，平均排名第 13.0 位。围绕对应采购场景补充页面信息，并从相关产品与案例页建立内链。",
+        "copy": "该词在指定报告期累计 74 次曝光、0 次点击，平均排名第 13.0 位。围绕对应采购场景补充页面信息，并从相关产品与案例页建立内链。",
         "kpi": "观察：该词排名、曝光、自然点击与相关页面会话"
       },
       {
         "period": "61–90 天",
         "title": "改善 /zh 的访问承接",
-        "copy": "完整报告期该页有 3 次会话，跳出率 33.33%。优化首屏价值说明、相关内容入口和询盘 CTA，提升访问后的下一步行动。",
+        "copy": "指定报告期该页有 3 次会话，跳出率 33.33%。优化首屏价值说明、相关内容入口和询盘 CTA，提升访问后的下一步行动。",
         "kpi": "观察：跳出率、平均互动时长、CTA 点击与关键事件"
       }
     ]
