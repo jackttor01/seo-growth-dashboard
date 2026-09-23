@@ -1117,6 +1117,52 @@
           "averageEngagementTimePerSession": 0.0
         }
       ],
+      "ga4OrganicSearchCountries": [
+        {
+          "country": "Hong Kong",
+          "organicGoogleSearchClicks": 4
+        },
+        {
+          "country": "United States",
+          "organicGoogleSearchClicks": 3
+        },
+        {
+          "country": "Algeria",
+          "organicGoogleSearchClicks": 1
+        },
+        {
+          "country": "China",
+          "organicGoogleSearchClicks": 1
+        },
+        {
+          "country": "Czechia",
+          "organicGoogleSearchClicks": 1
+        },
+        {
+          "country": "Honduras",
+          "organicGoogleSearchClicks": 1
+        },
+        {
+          "country": "Kazakhstan",
+          "organicGoogleSearchClicks": 1
+        },
+        {
+          "country": "Mexico",
+          "organicGoogleSearchClicks": 1
+        },
+        {
+          "country": "Pakistan",
+          "organicGoogleSearchClicks": 1
+        },
+        {
+          "country": "Singapore",
+          "organicGoogleSearchClicks": 1
+        },
+        {
+          "country": "Thailand",
+          "organicGoogleSearchClicks": 1
+        }
+      ],
       "countries": [
         {
           "clicks": 4,
@@ -6294,6 +6340,72 @@
           "averageEngagementTimePerSession": 0.0
         }
       ],
+      "ga4OrganicSearchCountries": [
+        {
+          "country": "United States",
+          "organicGoogleSearchClicks": 4
+        },
+        {
+          "country": "France",
+          "organicGoogleSearchClicks": 3
+        },
+        {
+          "country": "Australia",
+          "organicGoogleSearchClicks": 1
+        },
+        {
+          "country": "Brazil",
+          "organicGoogleSearchClicks": 1
+        },
+        {
+          "country": "China",
+          "organicGoogleSearchClicks": 1
+        },
+        {
+          "country": "Germany",
+          "organicGoogleSearchClicks": 1
+        },
+        {
+          "country": "Hong Kong",
+          "organicGoogleSearchClicks": 1
+        },
+        {
+          "country": "India",
+          "organicGoogleSearchClicks": 1
+        },
+        {
+          "country": "Malaysia",
+          "organicGoogleSearchClicks": 1
+        },
+        {
+          "country": "Philippines",
+          "organicGoogleSearchClicks": 1
+        },
+        {
+          "country": "Russia",
+          "organicGoogleSearchClicks": 1
+        },
+        {
+          "country": "Spain",
+          "organicGoogleSearchClicks": 1
+        },
+        {
+          "country": "Sweden",
+          "organicGoogleSearchClicks": 1
+        },
+        {
+          "country": "Taiwan",
+          "organicGoogleSearchClicks": 1
+        },
+        {
+          "country": "Thailand",
+          "organicGoogleSearchClicks": 1
+        },
+        {
+          "country": "Vietnam",
+          "organicGoogleSearchClicks": 1
+        }
+      ],
       "countries": [
         {
           "clicks": 4,
@@ -10366,21 +10478,37 @@
         "2026-08-31"
       ],
       "metrics": {
-        "clicks": 4,
-        "impressions": 1014,
+        "clicks": 11,
+        "impressions": 2822,
         "ctr": 0.39,
-        "averagePosition": 14.09,
-        "totalUsers": 44,
-        "pageViews": 114,
-        "sessions": 62,
-        "averageSessionDuration": 172.16,
-        "averageEngagementTimePerSession": 22.19,
-        "bounceRate": 58.06,
+        "averagePosition": 15.75,
+        "totalUsers": 101,
+        "pageViews": 289,
+        "sessions": 155,
+        "averageSessionDuration": 243.94,
+        "averageEngagementTimePerSession": 34.46,
+        "bounceRate": 49.03,
         "keyEvents": 2,
         "indexedPages": 0,
         "inspectedPages": 0
       },
       "keywords": [
+        {
+          "clicks": 1,
+          "impressions": 1,
+          "ctr": 100.0,
+          "position": 9.0,
+          "query": "automotivo",
+          "positionChange": null
+        },
+        {
+          "clicks": 1,
+          "impressions": 21,
+          "ctr": 4.7619,
+          "position": 8.3333,
+          "query": "topfast pcb",
+          "positionChange": -2.74
+        },
         {
           "clicks": 0,
           "impressions": 1,
@@ -10391,43 +10519,107 @@
         },
         {
           "clicks": 0,
-          "impressions": 1,
+          "impressions": 3,
           "ctr": 0.0,
-          "position": 2.0,
+          "position": 4.6667,
           "query": "alternative to yazaki for high voltage wiring systems",
+          "positionChange": null
+        },
+        {
+          "clicks": 0,
+          "impressions": 27,
+          "ctr": 0.0,
+          "position": 52.2593,
+          "query": "appliance wiring",
           "positionChange": null
         },
         {
           "clicks": 0,
           "impressions": 1,
           "ctr": 0.0,
-          "position": 2.0,
+          "position": 35.0,
+          "query": "appliance wiring harness",
+          "positionChange": null
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 66.0,
+          "query": "automotive cable standards",
+          "positionChange": null
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 9.0,
+          "query": "automotive wire harness injection molding trends 2026",
+          "positionChange": 0.5
+        },
+        {
+          "clicks": 0,
+          "impressions": 6,
+          "ctr": 0.0,
+          "position": 30.0,
+          "query": "automotive wire harness manufacturers",
+          "positionChange": -20.0
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 37.0,
+          "query": "automotive wiring harness companies",
+          "positionChange": null
+        },
+        {
+          "clicks": 0,
+          "impressions": 3,
+          "ctr": 0.0,
+          "position": 3.0,
           "query": "automotive wiring harness manufacturer",
-          "positionChange": 1.0
+          "positionChange": 0.0
         },
         {
           "clicks": 0,
-          "impressions": 1,
+          "impressions": 3,
           "ctr": 0.0,
-          "position": 40.0,
+          "position": 41.6667,
           "query": "automotive wiring harness manufacturers",
-          "positionChange": 1.0
-        },
-        {
-          "clicks": 0,
-          "impressions": 10,
-          "ctr": 0.0,
-          "position": 22.1,
-          "query": "cable harness management",
-          "positionChange": -5.1
+          "positionChange": -0.67
         },
         {
           "clicks": 0,
           "impressions": 1,
+          "ctr": 0.0,
+          "position": 3.0,
+          "query": "best wire harness companies",
+          "positionChange": null
+        },
+        {
+          "clicks": 0,
+          "impressions": 31,
+          "ctr": 0.0,
+          "position": 37.8387,
+          "query": "cable harness management",
+          "positionChange": -20.84
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
           "ctr": 0.0,
           "position": 67.0,
           "query": "cable harnesses production",
           "positionChange": -14.0
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 46.5,
+          "query": "cable management switch",
+          "positionChange": -22.5
         },
         {
           "clicks": 0,
@@ -10441,8 +10633,24 @@
           "clicks": 0,
           "impressions": 1,
           "ctr": 0.0,
+          "position": 9.0,
+          "query": "cable switch",
+          "positionChange": null
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
           "position": 44.0,
           "query": "cable tapping",
+          "positionChange": null
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 1.0,
+          "query": "company to work for",
           "positionChange": null
         },
         {
@@ -10463,11 +10671,11 @@
         },
         {
           "clicks": 0,
-          "impressions": 5,
+          "impressions": 9,
           "ctr": 0.0,
-          "position": 5.6,
+          "position": 8.0,
           "query": "custom industrial cables vs standard industrial cables",
-          "positionChange": 5.4
+          "positionChange": 3.0
         },
         {
           "clicks": 0,
@@ -10476,6 +10684,30 @@
           "position": 20.0,
           "query": "custom wire baskets for telecom",
           "positionChange": 1.0
+        },
+        {
+          "clicks": 0,
+          "impressions": 4,
+          "ctr": 0.0,
+          "position": 68.0,
+          "query": "custom-made medical stainless steel cables",
+          "positionChange": null
+        },
+        {
+          "clicks": 0,
+          "impressions": 3,
+          "ctr": 0.0,
+          "position": 73.0,
+          "query": "custom-made stainless steel cables for medical application",
+          "positionChange": null
+        },
+        {
+          "clicks": 0,
+          "impressions": 5,
+          "ctr": 0.0,
+          "position": 60.8,
+          "query": "data center harness solutions",
+          "positionChange": -33.3
         },
         {
           "clicks": 0,
@@ -10495,6 +10727,22 @@
         },
         {
           "clicks": 0,
+          "impressions": 3,
+          "ctr": 0.0,
+          "position": 29.6667,
+          "query": "draht für automotiv industrie",
+          "positionChange": null
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 65.0,
+          "query": "ev wire harness",
+          "positionChange": null
+        },
+        {
+          "clicks": 0,
           "impressions": 1,
           "ctr": 0.0,
           "position": 33.0,
@@ -10503,10 +10751,34 @@
         },
         {
           "clicks": 0,
-          "impressions": 1,
+          "impressions": 3,
           "ctr": 0.0,
-          "position": 21.0,
+          "position": 20.0,
+          "query": "fiber harness",
+          "positionChange": null
+        },
+        {
+          "clicks": 0,
+          "impressions": 4,
+          "ctr": 0.0,
+          "position": 12.25,
+          "query": "fiber optic harness",
+          "positionChange": null
+        },
+        {
+          "clicks": 0,
+          "impressions": 3,
+          "ctr": 0.0,
+          "position": 20.0,
           "query": "fiber optic harnesses",
+          "positionChange": null
+        },
+        {
+          "clicks": 0,
+          "impressions": 4,
+          "ctr": 0.0,
+          "position": 69.75,
+          "query": "fine wire termination medical device",
           "positionChange": null
         },
         {
@@ -10519,11 +10791,51 @@
         },
         {
           "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 1.0,
+          "query": "global manufacturing company",
+          "positionChange": null
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 75.5,
+          "query": "guiamento de cabos para robôs",
+          "positionChange": null
+        },
+        {
+          "clicks": 0,
           "impressions": 5,
           "ctr": 0.0,
           "position": 81.0,
           "query": "harness fiber optic",
           "positionChange": -2.0
+        },
+        {
+          "clicks": 0,
+          "impressions": 3,
+          "ctr": 0.0,
+          "position": 81.6667,
+          "query": "haushaltsgeräteindustrie ki use cases",
+          "positionChange": null
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 61.0,
+          "query": "home appliance wiring harness",
+          "positionChange": null
+        },
+        {
+          "clicks": 0,
+          "impressions": 4,
+          "ctr": 0.0,
+          "position": 71.0,
+          "query": "how to cost down a medical cable assembly",
+          "positionChange": null
         },
         {
           "clicks": 0,
@@ -10543,10 +10855,34 @@
         },
         {
           "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 43.0,
+          "query": "industrial robot wiring harness for sale",
+          "positionChange": null
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 25.0,
+          "query": "industrial robot wiring harness supplier",
+          "positionChange": null
+        },
+        {
+          "clicks": 0,
           "impressions": 2,
           "ctr": 0.0,
           "position": 34.5,
           "query": "leitungen für servomotoren",
+          "positionChange": null
+        },
+        {
+          "clicks": 0,
+          "impressions": 8,
+          "ctr": 0.0,
+          "position": 39.625,
+          "query": "low volume wiring manufacture",
           "positionChange": null
         },
         {
@@ -10591,6 +10927,14 @@
         },
         {
           "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 51.0,
+          "query": "network switch cable management",
+          "positionChange": null
+        },
+        {
+          "clicks": 0,
           "impressions": 2,
           "ctr": 0.0,
           "position": 49.5,
@@ -10599,11 +10943,19 @@
         },
         {
           "clicks": 0,
-          "impressions": 14,
+          "impressions": 1,
           "ctr": 0.0,
-          "position": 91.9286,
+          "position": 79.0,
+          "query": "pcb wire",
+          "positionChange": null
+        },
+        {
+          "clicks": 0,
+          "impressions": 15,
+          "ctr": 0.0,
+          "position": 89.8667,
           "query": "pcba supplier",
-          "positionChange": -10.48
+          "positionChange": -8.42
         },
         {
           "clicks": 0,
@@ -10617,17 +10969,49 @@
           "clicks": 0,
           "impressions": 1,
           "ctr": 0.0,
+          "position": 60.0,
+          "query": "quality wiring",
+          "positionChange": -26.0
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
           "position": 3.0,
           "query": "qué marcas",
           "positionChange": null
         },
         {
           "clicks": 0,
-          "impressions": 1,
+          "impressions": 3,
           "ctr": 0.0,
-          "position": 65.0,
+          "position": 27.0,
+          "query": "robot harness",
+          "positionChange": 56.0
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 58.0,
+          "query": "robot wire harness",
+          "positionChange": null
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 67.0,
           "query": "robot wires",
           "positionChange": null
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 51.5,
+          "query": "robot wiring harness",
+          "positionChange": -14.5
         },
         {
           "clicks": 0,
@@ -10635,6 +11019,14 @@
           "ctr": 0.0,
           "position": 49.0,
           "query": "robotic wiring",
+          "positionChange": null
+        },
+        {
+          "clicks": 0,
+          "impressions": 11,
+          "ctr": 0.0,
+          "position": 57.4545,
+          "query": "robotic wiring and installations",
           "positionChange": null
         },
         {
@@ -10649,6 +11041,14 @@
           "clicks": 0,
           "impressions": 1,
           "ctr": 0.0,
+          "position": 30.0,
+          "query": "robotics wiring harness supplier canada",
+          "positionChange": 10.5
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
           "position": 24.0,
           "query": "server fiber optic",
           "positionChange": null
@@ -10657,7 +11057,47 @@
           "clicks": 0,
           "impressions": 1,
           "ctr": 0.0,
-          "position": 18.0,
+          "position": 99.0,
+          "query": "sfdz auto power wire harness manufacturers",
+          "positionChange": null
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 23.0,
+          "query": "sfdz automotive wiring harness companies",
+          "positionChange": null
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 19.0,
+          "query": "sfdz industrial robot wiring harness",
+          "positionChange": null
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 19.0,
+          "query": "sfdz industrial robot wiring harness for sale",
+          "positionChange": null
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 21.0,
+          "query": "sfdz industrial robot wiring harness supplier",
+          "positionChange": null
+        },
+        {
+          "clicks": 0,
+          "impressions": 4,
+          "ctr": 0.0,
+          "position": 28.75,
           "query": "switch cable management",
           "positionChange": null
         },
@@ -10673,40 +11113,96 @@
           "clicks": 0,
           "impressions": 1,
           "ctr": 0.0,
-          "position": 25.0,
+          "position": 80.0,
+          "query": "tecnologias de fiação para o setor automotivo",
+          "positionChange": -16.0
+        },
+        {
+          "clicks": 0,
+          "impressions": 3,
+          "ctr": 0.0,
+          "position": 27.3333,
           "query": "telecom harness",
-          "positionChange": -10.33
+          "positionChange": -12.67
         },
         {
           "clicks": 0,
           "impressions": 1,
           "ctr": 0.0,
-          "position": 1.0,
+          "position": 2.0,
+          "query": "temp ratings",
+          "positionChange": null
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 57.0,
+          "query": "the correct process of wire harness processing",
+          "positionChange": 4.0
+        },
+        {
+          "clicks": 0,
+          "impressions": 3,
+          "ctr": 0.0,
+          "position": 5.3333,
           "query": "top automotive wiring harness manufacturers",
-          "positionChange": 4.5
+          "positionChange": 0.17
         },
         {
           "clicks": 0,
-          "impressions": 30,
+          "impressions": 132,
           "ctr": 0.0,
-          "position": 5.6,
+          "position": 5.4394,
           "query": "topfast",
-          "positionChange": 0.43
+          "positionChange": 0.59
         },
         {
           "clicks": 0,
-          "impressions": 8,
+          "impressions": 2,
           "ctr": 0.0,
-          "position": 5.625,
-          "query": "topfast pcb",
-          "positionChange": -0.03
+          "position": 4.0,
+          "query": "topfast catalogue",
+          "positionChange": null
         },
         {
           "clicks": 0,
-          "impressions": 10,
+          "impressions": 2,
           "ctr": 0.0,
-          "position": 51.4,
+          "position": 10.0,
+          "query": "topfast electronic limited",
+          "positionChange": 0.0
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 12.5,
+          "query": "topfastpcb",
+          "positionChange": -5.9
+        },
+        {
+          "clicks": 0,
+          "impressions": 43,
+          "ctr": 0.0,
+          "position": 44.5581,
           "query": "topfastwire.com",
+          "positionChange": null
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 3.0,
+          "query": "wer sind die führenden zulieferer für hochvolt-bordnetze in elektrofahrzeugen?",
+          "positionChange": null
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 2.0,
+          "query": "what are some alternatives to te connectivity for reliable electrical component solutions in automotive applications?",
           "positionChange": null
         },
         {
@@ -10719,19 +11215,59 @@
         },
         {
           "clicks": 0,
-          "impressions": 1,
+          "impressions": 2,
           "ctr": 0.0,
-          "position": 9.0,
+          "position": 6.0,
           "query": "what are the typical environmental requirements for connectors used in 5g base station applications, specifically in terms of operating temperature range, humidity, and vibration resistance, that would meet the standards outlined in iec 60512 and ip67 rating for outdoor deployments?",
-          "positionChange": 2.0
+          "positionChange": 5.0
+        },
+        {
+          "clicks": 0,
+          "impressions": 3,
+          "ctr": 0.0,
+          "position": 26.0,
+          "query": "where do manufacturers source automotive power solutions?",
+          "positionChange": null
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 4.5,
+          "query": "which suppliers compete with yazaki in ev high voltage wiring",
+          "positionChange": null
         },
         {
           "clicks": 0,
           "impressions": 1,
           "ctr": 0.0,
-          "position": 77.0,
+          "position": 2.0,
+          "query": "which suppliers offer complete automotive wiring harness systems?",
+          "positionChange": null
+        },
+        {
+          "clicks": 0,
+          "impressions": 3,
+          "ctr": 0.0,
+          "position": 40.3333,
+          "query": "wire harness factory confirmation checklist customer requirements",
+          "positionChange": null
+        },
+        {
+          "clicks": 0,
+          "impressions": 8,
+          "ctr": 0.0,
+          "position": 50.875,
           "query": "wire harness for industrial automation",
-          "positionChange": -27.8
+          "positionChange": -1.67
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 38.0,
+          "query": "wire harness manufacturing processautomotive wiring harness manufacturing process",
+          "positionChange": 15.0
         },
         {
           "clicks": 0,
@@ -10743,10 +11279,18 @@
         },
         {
           "clicks": 0,
-          "impressions": 2,
+          "impressions": 5,
           "ctr": 0.0,
-          "position": 70.0,
+          "position": 67.4,
           "query": "wire protection for robotic industry",
+          "positionChange": null
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 71.0,
+          "query": "wire robots",
           "positionChange": null
         },
         {
@@ -10759,135 +11303,195 @@
         },
         {
           "clicks": 0,
-          "impressions": 283,
+          "impressions": 9,
           "ctr": 0.0,
-          "position": 7.1555,
+          "position": 48.6667,
+          "query": "wiring domestic appliances",
+          "positionChange": null
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 38.5,
+          "query": "wiring robot",
+          "positionChange": -10.0
+        },
+        {
+          "clicks": 0,
+          "impressions": 834,
+          "ctr": 0.0,
+          "position": 7.6691,
           "query": "فاست توب",
-          "positionChange": 0.18
+          "positionChange": -0.33
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 6.0,
+          "query": "中国のどこ？",
+          "positionChange": null
         }
       ],
       "channels": [
         {
           "sessionDefaultChannelGroup": "Direct",
-          "sessions": 31,
-          "engagedSessions": 14,
-          "totalUsers": 16,
-          "screenPageViews": 70,
-          "averageSessionDuration": 280.723356,
-          "userEngagementDuration": 729,
-          "bounceRate": 0.548387,
+          "sessions": 79,
+          "engagedSessions": 39,
+          "totalUsers": 40,
+          "screenPageViews": 155,
+          "averageSessionDuration": 246.730058,
+          "userEngagementDuration": 2790,
+          "bounceRate": 0.506329,
           "keyEvents": 0,
-          "averageEngagementTimePerSession": 23.52
+          "averageEngagementTimePerSession": 35.32
         },
         {
           "sessionDefaultChannelGroup": "Organic Social",
-          "sessions": 20,
-          "engagedSessions": 6,
-          "totalUsers": 19,
-          "screenPageViews": 19,
-          "averageSessionDuration": 7.570142,
-          "userEngagementDuration": 56,
-          "bounceRate": 0.7,
+          "sessions": 44,
+          "engagedSessions": 13,
+          "totalUsers": 42,
+          "screenPageViews": 47,
+          "averageSessionDuration": 21.121587,
+          "userEngagementDuration": 230,
+          "bounceRate": 0.704545,
           "keyEvents": 0,
-          "averageEngagementTimePerSession": 2.8
+          "averageEngagementTimePerSession": 5.23
         },
         {
           "sessionDefaultChannelGroup": "Organic Search",
-          "sessions": 6,
-          "engagedSessions": 6,
-          "totalUsers": 6,
-          "screenPageViews": 8,
-          "averageSessionDuration": 185.323646,
-          "userEngagementDuration": 194,
-          "bounceRate": 0,
+          "sessions": 25,
+          "engagedSessions": 21,
+          "totalUsers": 17,
+          "screenPageViews": 58,
+          "averageSessionDuration": 436.661186,
+          "userEngagementDuration": 1817,
+          "bounceRate": 0.16,
           "keyEvents": 2,
-          "averageEngagementTimePerSession": 32.33
+          "averageEngagementTimePerSession": 72.68
+        },
+        {
+          "sessionDefaultChannelGroup": "Referral",
+          "sessions": 7,
+          "engagedSessions": 6,
+          "totalUsers": 2,
+          "screenPageViews": 21,
+          "averageSessionDuration": 843.533249,
+          "userEngagementDuration": 286,
+          "bounceRate": 0.142857,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 40.86
         },
         {
           "sessionDefaultChannelGroup": "Unassigned",
-          "sessions": 5,
+          "sessions": 1,
           "engagedSessions": 0,
-          "totalUsers": 4,
-          "screenPageViews": 13,
-          "averageSessionDuration": 117.52214,
-          "userEngagementDuration": 313,
+          "totalUsers": 1,
+          "screenPageViews": 8,
+          "averageSessionDuration": 568.237838,
+          "userEngagementDuration": 219,
           "bounceRate": 1,
           "keyEvents": 0,
-          "averageEngagementTimePerSession": 62.6
-        },
-        {
-          "sessionDefaultChannelGroup": "Cross-network",
-          "sessions": 2,
-          "engagedSessions": 0,
-          "totalUsers": 2,
-          "screenPageViews": 4,
-          "averageSessionDuration": 60.266922,
-          "userEngagementDuration": 84,
-          "bounceRate": 1,
-          "keyEvents": 0,
-          "averageEngagementTimePerSession": 42.0
+          "averageEngagementTimePerSession": 219.0
         }
       ],
       "sources": [
         {
           "sessionSource": "(direct)",
-          "sessions": 31,
-          "engagedSessions": 14,
-          "totalUsers": 16,
-          "screenPageViews": 70,
-          "averageSessionDuration": 280.723356,
-          "userEngagementDuration": 729,
-          "bounceRate": 0.548387,
+          "sessions": 79,
+          "engagedSessions": 39,
+          "totalUsers": 40,
+          "screenPageViews": 155,
+          "averageSessionDuration": 246.730058,
+          "userEngagementDuration": 2790,
+          "bounceRate": 0.506329,
           "keyEvents": 0,
-          "averageEngagementTimePerSession": 23.52
+          "averageEngagementTimePerSession": 35.32
         },
         {
           "sessionSource": "facebook.com",
-          "sessions": 16,
-          "engagedSessions": 5,
-          "totalUsers": 16,
-          "screenPageViews": 16,
-          "averageSessionDuration": 7.973092,
-          "userEngagementDuration": 49,
-          "bounceRate": 0.6875,
+          "sessions": 36,
+          "engagedSessions": 9,
+          "totalUsers": 36,
+          "screenPageViews": 37,
+          "averageSessionDuration": 7.509342,
+          "userEngagementDuration": 120,
+          "bounceRate": 0.75,
           "keyEvents": 0,
-          "averageEngagementTimePerSession": 3.06
-        },
-        {
-          "sessionSource": "(not set)",
-          "sessions": 5,
-          "engagedSessions": 0,
-          "totalUsers": 4,
-          "screenPageViews": 13,
-          "averageSessionDuration": 117.52214,
-          "userEngagementDuration": 313,
-          "bounceRate": 1,
-          "keyEvents": 0,
-          "averageEngagementTimePerSession": 62.6
+          "averageEngagementTimePerSession": 3.33
         },
         {
           "sessionSource": "google",
-          "sessions": 4,
-          "engagedSessions": 4,
-          "totalUsers": 4,
-          "screenPageViews": 6,
-          "averageSessionDuration": 266.038414,
-          "userEngagementDuration": 148,
-          "bounceRate": 0,
+          "sessions": 14,
+          "engagedSessions": 12,
+          "totalUsers": 11,
+          "screenPageViews": 28,
+          "averageSessionDuration": 215.692185,
+          "userEngagementDuration": 478,
+          "bounceRate": 0.142857,
           "keyEvents": 2,
-          "averageEngagementTimePerSession": 37.0
+          "averageEngagementTimePerSession": 34.14
         },
         {
-          "sessionSource": "(data not available)",
-          "sessions": 2,
-          "engagedSessions": 0,
+          "sessionSource": "bing",
+          "sessions": 6,
+          "engagedSessions": 4,
           "totalUsers": 2,
-          "screenPageViews": 4,
-          "averageSessionDuration": 60.266922,
-          "userEngagementDuration": 84,
-          "bounceRate": 1,
+          "screenPageViews": 17,
+          "averageSessionDuration": 982.070884,
+          "userEngagementDuration": 898,
+          "bounceRate": 0.333333,
           "keyEvents": 0,
-          "averageEngagementTimePerSession": 42.0
+          "averageEngagementTimePerSession": 149.67
+        },
+        {
+          "sessionSource": "tfoow.com",
+          "sessions": 6,
+          "engagedSessions": 5,
+          "totalUsers": 1,
+          "screenPageViews": 17,
+          "averageSessionDuration": 978.770957,
+          "userEngagementDuration": 266,
+          "bounceRate": 0.166667,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 44.33
+        },
+        {
+          "sessionSource": "m.facebook.com",
+          "sessions": 5,
+          "engagedSessions": 3,
+          "totalUsers": 5,
+          "screenPageViews": 5,
+          "averageSessionDuration": 10.533352,
+          "userEngagementDuration": 21,
+          "bounceRate": 0.4,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 4.2
+        },
+        {
+          "sessionSource": "l.facebook.com",
+          "sessions": 3,
+          "engagedSessions": 1,
+          "totalUsers": 1,
+          "screenPageViews": 5,
+          "averageSessionDuration": 202.115587,
+          "userEngagementDuration": 89,
+          "bounceRate": 0.666667,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 29.67
+        },
+        {
+          "sessionSource": "cn.bing.com",
+          "sessions": 2,
+          "engagedSessions": 2,
+          "totalUsers": 1,
+          "screenPageViews": 10,
+          "averageSessionDuration": 945.97162,
+          "userEngagementDuration": 331,
+          "bounceRate": 0,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 165.5
         },
         {
           "sessionSource": "duckduckgo",
@@ -10902,68 +11506,122 @@
           "averageEngagementTimePerSession": 23.0
         },
         {
-          "sessionSource": "l.facebook.com",
-          "sessions": 2,
+          "sessionSource": "(not set)",
+          "sessions": 1,
           "engagedSessions": 0,
           "totalUsers": 1,
-          "screenPageViews": 1,
-          "averageSessionDuration": 0,
-          "userEngagementDuration": 0,
+          "screenPageViews": 8,
+          "averageSessionDuration": 568.237838,
+          "userEngagementDuration": 219,
           "bounceRate": 1,
           "keyEvents": 0,
-          "averageEngagementTimePerSession": 0.0
+          "averageEngagementTimePerSession": 219.0
         },
         {
-          "sessionSource": "m.facebook.com",
-          "sessions": 2,
+          "sessionSource": "l.wl.co",
+          "sessions": 1,
           "engagedSessions": 1,
-          "totalUsers": 2,
-          "screenPageViews": 2,
-          "averageSessionDuration": 11.916685,
-          "userEngagementDuration": 7,
-          "bounceRate": 0.5,
+          "totalUsers": 1,
+          "screenPageViews": 4,
+          "averageSessionDuration": 32.107,
+          "userEngagementDuration": 20,
+          "bounceRate": 0,
           "keyEvents": 0,
-          "averageEngagementTimePerSession": 3.5
+          "averageEngagementTimePerSession": 20.0
+        },
+        {
+          "sessionSource": "yandex.by",
+          "sessions": 1,
+          "engagedSessions": 1,
+          "totalUsers": 1,
+          "screenPageViews": 1,
+          "averageSessionDuration": 64.682291,
+          "userEngagementDuration": 64,
+          "bounceRate": 0,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 64.0
         }
       ],
       "ga4Countries": [
         {
           "country": "United States",
-          "sessions": 21,
-          "totalUsers": 16,
-          "engagedSessions": 12,
+          "sessions": 59,
+          "totalUsers": 44,
+          "engagedSessions": 27,
           "averageEngagementTimePerSession": 0.0
         },
         {
           "country": "China",
-          "sessions": 17,
-          "totalUsers": 8,
-          "engagedSessions": 5,
+          "sessions": 32,
+          "totalUsers": 17,
+          "engagedSessions": 19,
           "averageEngagementTimePerSession": 0.0
         },
         {
           "country": "Hong Kong",
-          "sessions": 7,
+          "sessions": 16,
+          "totalUsers": 8,
+          "engagedSessions": 14,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Singapore",
+          "sessions": 10,
           "totalUsers": 5,
-          "engagedSessions": 6,
+          "engagedSessions": 7,
           "averageEngagementTimePerSession": 0.0
         },
         {
           "country": "Sweden",
-          "sessions": 6,
-          "totalUsers": 6,
+          "sessions": 10,
+          "totalUsers": 10,
           "engagedSessions": 1,
           "averageEngagementTimePerSession": 0.0
         },
         {
+          "country": "Brazil",
+          "sessions": 5,
+          "totalUsers": 2,
+          "engagedSessions": 3,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
           "country": "Ireland",
+          "sessions": 5,
+          "totalUsers": 5,
+          "engagedSessions": 1,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "United Kingdom",
+          "sessions": 4,
+          "totalUsers": 2,
+          "engagedSessions": 2,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Argentina",
+          "sessions": 2,
+          "totalUsers": 2,
+          "engagedSessions": 1,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Canada",
+          "sessions": 2,
+          "totalUsers": 1,
+          "engagedSessions": 0,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "country": "Finland",
           "sessions": 2,
           "totalUsers": 2,
           "engagedSessions": 0,
           "averageEngagementTimePerSession": 0.0
         },
         {
-          "country": "Singapore",
+          "country": "Pakistan",
           "sessions": 2,
           "totalUsers": 2,
           "engagedSessions": 1,
@@ -10980,21 +11638,14 @@
           "country": "Belarus",
           "sessions": 1,
           "totalUsers": 1,
-          "engagedSessions": 0,
-          "averageEngagementTimePerSession": 0.0
-        },
-        {
-          "country": "Canada",
-          "sessions": 1,
-          "totalUsers": 1,
-          "engagedSessions": 0,
+          "engagedSessions": 1,
           "averageEngagementTimePerSession": 0.0
         },
         {
           "country": "France",
           "sessions": 1,
           "totalUsers": 1,
-          "engagedSessions": 0,
+          "engagedSessions": 1,
           "averageEngagementTimePerSession": 0.0
         },
         {
@@ -11019,7 +11670,7 @@
           "averageEngagementTimePerSession": 0.0
         },
         {
-          "country": "Pakistan",
+          "country": "Netherlands",
           "sessions": 1,
           "totalUsers": 1,
           "engagedSessions": 0,
@@ -11033,6 +11684,13 @@
           "averageEngagementTimePerSession": 0.0
         },
         {
+          "country": "South Korea",
+          "sessions": 1,
+          "totalUsers": 1,
+          "engagedSessions": 1,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
           "country": "United Arab Emirates",
           "sessions": 1,
           "totalUsers": 1,
@@ -11040,54 +11698,158 @@
           "averageEngagementTimePerSession": 0.0
         }
       ],
+      "ga4OrganicSearchCountries": [
+        {
+          "country": "Brazil",
+          "organicGoogleSearchClicks": 2
+        },
+        {
+          "country": "Hong Kong",
+          "organicGoogleSearchClicks": 2
+        },
+        {
+          "country": "United States",
+          "organicGoogleSearchClicks": 2
+        },
+        {
+          "country": "Denmark",
+          "organicGoogleSearchClicks": 1
+        },
+        {
+          "country": "Iran",
+          "organicGoogleSearchClicks": 1
+        },
+        {
+          "country": "Russia",
+          "organicGoogleSearchClicks": 1
+        },
+        {
+          "country": "Singapore",
+          "organicGoogleSearchClicks": 1
+        },
+        {
+          "country": "United Kingdom",
+          "organicGoogleSearchClicks": 1
+        }
+      ],
       "countries": [
         {
           "clicks": 2,
-          "impressions": 321,
-          "ctr": 0.6231,
-          "position": 16.704,
+          "impressions": 63,
+          "ctr": 3.1746,
+          "position": 10.5873,
+          "country": "bra"
+        },
+        {
+          "clicks": 2,
+          "impressions": 29,
+          "ctr": 6.8966,
+          "position": 8.6207,
+          "country": "hkg"
+        },
+        {
+          "clicks": 2,
+          "impressions": 786,
+          "ctr": 0.2545,
+          "position": 16.8957,
           "country": "usa"
         },
         {
           "clicks": 1,
           "impressions": 2,
           "ctr": 50.0,
-          "position": 5.0,
+          "position": 4.0,
+          "country": "dnk"
+        },
+        {
+          "clicks": 1,
+          "impressions": 106,
+          "ctr": 0.9434,
+          "position": 31.1132,
+          "country": "gbr"
+        },
+        {
+          "clicks": 1,
+          "impressions": 4,
+          "ctr": 25.0,
+          "position": 6.25,
           "country": "irn"
         },
         {
           "clicks": 1,
-          "impressions": 10,
-          "ctr": 10.0,
-          "position": 5.3,
+          "impressions": 52,
+          "ctr": 1.9231,
+          "position": 17.8077,
+          "country": "rus"
+        },
+        {
+          "clicks": 1,
+          "impressions": 22,
+          "ctr": 4.5455,
+          "position": 5.2727,
           "country": "sgp"
-        },
-        {
-          "clicks": 0,
-          "impressions": 5,
-          "ctr": 0.0,
-          "position": 7.6,
-          "country": "are"
-        },
-        {
-          "clicks": 0,
-          "impressions": 5,
-          "ctr": 0.0,
-          "position": 7.2,
-          "country": "arg"
-        },
-        {
-          "clicks": 0,
-          "impressions": 5,
-          "ctr": 0.0,
-          "position": 4.8,
-          "country": "aus"
         },
         {
           "clicks": 0,
           "impressions": 1,
           "ctr": 0.0,
-          "position": 82.0,
+          "position": 5.0,
+          "country": "ago"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 11.0,
+          "country": "alb"
+        },
+        {
+          "clicks": 0,
+          "impressions": 21,
+          "ctr": 0.0,
+          "position": 7.3333,
+          "country": "are"
+        },
+        {
+          "clicks": 0,
+          "impressions": 10,
+          "ctr": 0.0,
+          "position": 11.7,
+          "country": "arg"
+        },
+        {
+          "clicks": 0,
+          "impressions": 11,
+          "ctr": 0.0,
+          "position": 5.8182,
+          "country": "aus"
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 1.5,
+          "country": "aut"
+        },
+        {
+          "clicks": 0,
+          "impressions": 3,
+          "ctr": 0.0,
+          "position": 6.6667,
+          "country": "bel"
+        },
+        {
+          "clicks": 0,
+          "impressions": 4,
+          "ctr": 0.0,
+          "position": 50.0,
+          "country": "bgd"
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 45.0,
           "country": "bgr"
         },
         {
@@ -11099,17 +11861,17 @@
         },
         {
           "clicks": 0,
-          "impressions": 1,
+          "impressions": 3,
           "ctr": 0.0,
-          "position": 4.0,
+          "position": 6.0,
           "country": "blr"
         },
         {
           "clicks": 0,
-          "impressions": 20,
+          "impressions": 1,
           "ctr": 0.0,
-          "position": 9.15,
-          "country": "bra"
+          "position": 10.0,
+          "country": "bol"
         },
         {
           "clicks": 0,
@@ -11120,38 +11882,52 @@
         },
         {
           "clicks": 0,
-          "impressions": 10,
+          "impressions": 44,
           "ctr": 0.0,
-          "position": 4.8,
+          "position": 26.9318,
           "country": "can"
+        },
+        {
+          "clicks": 0,
+          "impressions": 4,
+          "ctr": 0.0,
+          "position": 2.75,
+          "country": "che"
         },
         {
           "clicks": 0,
           "impressions": 3,
           "ctr": 0.0,
           "position": 3.0,
-          "country": "che"
+          "country": "chl"
+        },
+        {
+          "clicks": 0,
+          "impressions": 60,
+          "ctr": 0.0,
+          "position": 14.2667,
+          "country": "chn"
+        },
+        {
+          "clicks": 0,
+          "impressions": 6,
+          "ctr": 0.0,
+          "position": 5.1667,
+          "country": "col"
         },
         {
           "clicks": 0,
           "impressions": 1,
           "ctr": 0.0,
-          "position": 3.0,
-          "country": "chl"
-        },
-        {
-          "clicks": 0,
-          "impressions": 11,
-          "ctr": 0.0,
-          "position": 5.9091,
-          "country": "chn"
+          "position": 9.0,
+          "country": "cpv"
         },
         {
           "clicks": 0,
           "impressions": 1,
           "ctr": 0.0,
           "position": 5.0,
-          "country": "col"
+          "country": "cym"
         },
         {
           "clicks": 0,
@@ -11162,16 +11938,16 @@
         },
         {
           "clicks": 0,
-          "impressions": 1,
+          "impressions": 4,
           "ctr": 0.0,
-          "position": 8.0,
+          "position": 14.25,
           "country": "cze"
         },
         {
           "clicks": 0,
-          "impressions": 28,
+          "impressions": 66,
           "ctr": 0.0,
-          "position": 12.7143,
+          "position": 10.8939,
           "country": "deu"
         },
         {
@@ -11183,24 +11959,45 @@
         },
         {
           "clicks": 0,
+          "impressions": 9,
+          "ctr": 0.0,
+          "position": 34.6667,
+          "country": "dza"
+        },
+        {
+          "clicks": 0,
           "impressions": 3,
           "ctr": 0.0,
-          "position": 23.3333,
-          "country": "dza"
+          "position": 1.6667,
+          "country": "ecu"
+        },
+        {
+          "clicks": 0,
+          "impressions": 14,
+          "ctr": 0.0,
+          "position": 7.4286,
+          "country": "egy"
         },
         {
           "clicks": 0,
           "impressions": 4,
           "ctr": 0.0,
-          "position": 5.75,
-          "country": "egy"
+          "position": 15.0,
+          "country": "esp"
         },
         {
           "clicks": 0,
-          "impressions": 2,
+          "impressions": 1,
           "ctr": 0.0,
-          "position": 24.0,
-          "country": "esp"
+          "position": 7.0,
+          "country": "est"
+        },
+        {
+          "clicks": 0,
+          "impressions": 3,
+          "ctr": 0.0,
+          "position": 6.6667,
+          "country": "fin"
         },
         {
           "clicks": 0,
@@ -11211,17 +12008,24 @@
         },
         {
           "clicks": 0,
-          "impressions": 7,
+          "impressions": 19,
           "ctr": 0.0,
-          "position": 14.7143,
+          "position": 29.7368,
           "country": "fra"
         },
         {
           "clicks": 0,
-          "impressions": 40,
+          "impressions": 1,
           "ctr": 0.0,
-          "position": 26.95,
-          "country": "gbr"
+          "position": 9.0,
+          "country": "gab"
+        },
+        {
+          "clicks": 0,
+          "impressions": 3,
+          "ctr": 0.0,
+          "position": 21.0,
+          "country": "geo"
         },
         {
           "clicks": 0,
@@ -11232,121 +12036,198 @@
         },
         {
           "clicks": 0,
-          "impressions": 6,
+          "impressions": 1,
           "ctr": 0.0,
-          "position": 6.8333,
-          "country": "hkg"
+          "position": 4.0,
+          "country": "gin"
         },
         {
           "clicks": 0,
-          "impressions": 9,
+          "impressions": 5,
           "ctr": 0.0,
-          "position": 10.2222,
+          "position": 6.0,
+          "country": "grc"
+        },
+        {
+          "clicks": 0,
+          "impressions": 23,
+          "ctr": 0.0,
+          "position": 24.5217,
           "country": "idn"
         },
         {
           "clicks": 0,
-          "impressions": 38,
+          "impressions": 108,
           "ctr": 0.0,
-          "position": 12.8421,
+          "position": 22.5463,
           "country": "ind"
         },
         {
           "clicks": 0,
-          "impressions": 7,
+          "impressions": 1,
           "ctr": 0.0,
-          "position": 9.8571,
+          "position": 33.0,
+          "country": "irl"
+        },
+        {
+          "clicks": 0,
+          "impressions": 22,
+          "ctr": 0.0,
+          "position": 15.0909,
           "country": "irq"
-        },
-        {
-          "clicks": 0,
-          "impressions": 3,
-          "ctr": 0.0,
-          "position": 12.0,
-          "country": "ita"
-        },
-        {
-          "clicks": 0,
-          "impressions": 3,
-          "ctr": 0.0,
-          "position": 16.0,
-          "country": "jor"
-        },
-        {
-          "clicks": 0,
-          "impressions": 11,
-          "ctr": 0.0,
-          "position": 8.0,
-          "country": "jpn"
-        },
-        {
-          "clicks": 0,
-          "impressions": 1,
-          "ctr": 0.0,
-          "position": 4.0,
-          "country": "ken"
-        },
-        {
-          "clicks": 0,
-          "impressions": 8,
-          "ctr": 0.0,
-          "position": 8.125,
-          "country": "kor"
-        },
-        {
-          "clicks": 0,
-          "impressions": 40,
-          "ctr": 0.0,
-          "position": 6.2,
-          "country": "lbn"
-        },
-        {
-          "clicks": 0,
-          "impressions": 2,
-          "ctr": 0.0,
-          "position": 26.0,
-          "country": "mar"
-        },
-        {
-          "clicks": 0,
-          "impressions": 16,
-          "ctr": 0.0,
-          "position": 7.0,
-          "country": "mex"
-        },
-        {
-          "clicks": 0,
-          "impressions": 1,
-          "ctr": 0.0,
-          "position": 8.0,
-          "country": "mus"
         },
         {
           "clicks": 0,
           "impressions": 6,
           "ctr": 0.0,
           "position": 19.5,
-          "country": "mys"
+          "country": "isr"
         },
         {
           "clicks": 0,
-          "impressions": 3,
+          "impressions": 8,
           "ctr": 0.0,
-          "position": 6.0,
-          "country": "nga"
+          "position": 8.5,
+          "country": "ita"
         },
         {
           "clicks": 0,
           "impressions": 5,
           "ctr": 0.0,
-          "position": 5.0,
-          "country": "nld"
+          "position": 37.0,
+          "country": "jor"
+        },
+        {
+          "clicks": 0,
+          "impressions": 31,
+          "ctr": 0.0,
+          "position": 19.7419,
+          "country": "jpn"
         },
         {
           "clicks": 0,
           "impressions": 2,
           "ctr": 0.0,
+          "position": 3.0,
+          "country": "ken"
+        },
+        {
+          "clicks": 0,
+          "impressions": 4,
+          "ctr": 0.0,
+          "position": 8.25,
+          "country": "kgz"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
           "position": 6.0,
+          "country": "khm"
+        },
+        {
+          "clicks": 0,
+          "impressions": 14,
+          "ctr": 0.0,
+          "position": 11.5,
+          "country": "kor"
+        },
+        {
+          "clicks": 0,
+          "impressions": 87,
+          "ctr": 0.0,
+          "position": 6.8161,
+          "country": "lbn"
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 3.0,
+          "country": "lka"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 1.0,
+          "country": "ltu"
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 7.0,
+          "country": "lux"
+        },
+        {
+          "clicks": 0,
+          "impressions": 6,
+          "ctr": 0.0,
+          "position": 19.8333,
+          "country": "mar"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 6.0,
+          "country": "mdv"
+        },
+        {
+          "clicks": 0,
+          "impressions": 28,
+          "ctr": 0.0,
+          "position": 22.6071,
+          "country": "mex"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 6.0,
+          "country": "mli"
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 5.5,
+          "country": "mus"
+        },
+        {
+          "clicks": 0,
+          "impressions": 22,
+          "ctr": 0.0,
+          "position": 21.6818,
+          "country": "mys"
+        },
+        {
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 8.0,
+          "country": "nam"
+        },
+        {
+          "clicks": 0,
+          "impressions": 4,
+          "ctr": 0.0,
+          "position": 6.5,
+          "country": "nga"
+        },
+        {
+          "clicks": 0,
+          "impressions": 18,
+          "ctr": 0.0,
+          "position": 6.0,
+          "country": "nld"
+        },
+        {
+          "clicks": 0,
+          "impressions": 3,
+          "ctr": 0.0,
+          "position": 7.6667,
           "country": "nor"
         },
         {
@@ -11358,16 +12239,16 @@
         },
         {
           "clicks": 0,
-          "impressions": 2,
+          "impressions": 3,
           "ctr": 0.0,
-          "position": 8.5,
+          "position": 13.0,
           "country": "omn"
         },
         {
           "clicks": 0,
-          "impressions": 7,
+          "impressions": 15,
           "ctr": 0.0,
-          "position": 10.0,
+          "position": 12.2,
           "country": "pak"
         },
         {
@@ -11379,16 +12260,16 @@
         },
         {
           "clicks": 0,
-          "impressions": 2,
+          "impressions": 6,
           "ctr": 0.0,
-          "position": 6.5,
+          "position": 18.1667,
           "country": "per"
         },
         {
           "clicks": 0,
-          "impressions": 29,
+          "impressions": 61,
           "ctr": 0.0,
-          "position": 47.4828,
+          "position": 39.5574,
           "country": "phl"
         },
         {
@@ -11400,101 +12281,122 @@
         },
         {
           "clicks": 0,
-          "impressions": 3,
+          "impressions": 22,
           "ctr": 0.0,
-          "position": 26.0,
+          "position": 31.3636,
           "country": "pol"
         },
         {
           "clicks": 0,
-          "impressions": 1,
+          "impressions": 5,
           "ctr": 0.0,
-          "position": 6.0,
+          "position": 22.4,
           "country": "prt"
         },
         {
           "clicks": 0,
           "impressions": 1,
           "ctr": 0.0,
-          "position": 10.0,
-          "country": "rou"
-        },
-        {
-          "clicks": 0,
-          "impressions": 10,
-          "ctr": 0.0,
-          "position": 18.6,
-          "country": "rus"
-        },
-        {
-          "clicks": 0,
-          "impressions": 14,
-          "ctr": 0.0,
-          "position": 6.2143,
-          "country": "sau"
+          "position": 9.0,
+          "country": "qat"
         },
         {
           "clicks": 0,
           "impressions": 2,
           "ctr": 0.0,
-          "position": 5.0,
-          "country": "srb"
+          "position": 7.0,
+          "country": "rou"
+        },
+        {
+          "clicks": 0,
+          "impressions": 19,
+          "ctr": 0.0,
+          "position": 11.2105,
+          "country": "sau"
         },
         {
           "clicks": 0,
           "impressions": 1,
           "ctr": 0.0,
-          "position": 6.0,
-          "country": "svk"
-        },
-        {
-          "clicks": 0,
-          "impressions": 1,
-          "ctr": 0.0,
-          "position": 5.0,
-          "country": "svn"
+          "position": 10.0,
+          "country": "sdn"
         },
         {
           "clicks": 0,
           "impressions": 3,
           "ctr": 0.0,
           "position": 3.6667,
+          "country": "srb"
+        },
+        {
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 6.5,
+          "country": "svk"
+        },
+        {
+          "clicks": 0,
+          "impressions": 3,
+          "ctr": 0.0,
+          "position": 5.6667,
+          "country": "svn"
+        },
+        {
+          "clicks": 0,
+          "impressions": 9,
+          "ctr": 0.0,
+          "position": 4.8889,
           "country": "swe"
         },
         {
           "clicks": 0,
-          "impressions": 232,
+          "impressions": 703,
           "ctr": 0.0,
-          "position": 7.3017,
+          "position": 7.8065,
           "country": "syr"
         },
         {
           "clicks": 0,
-          "impressions": 9,
+          "impressions": 15,
           "ctr": 0.0,
-          "position": 25.7778,
+          "position": 24.2667,
           "country": "tha"
         },
         {
           "clicks": 0,
-          "impressions": 9,
+          "impressions": 3,
           "ctr": 0.0,
-          "position": 11.6667,
+          "position": 6.0,
+          "country": "tun"
+        },
+        {
+          "clicks": 0,
+          "impressions": 40,
+          "ctr": 0.0,
+          "position": 13.275,
           "country": "tur"
         },
         {
           "clicks": 0,
-          "impressions": 1,
+          "impressions": 8,
           "ctr": 0.0,
-          "position": 7.0,
+          "position": 18.25,
           "country": "twn"
+        },
+        {
+          "clicks": 0,
+          "impressions": 13,
+          "ctr": 0.0,
+          "position": 40.0,
+          "country": "ukr"
         },
         {
           "clicks": 0,
           "impressions": 4,
           "ctr": 0.0,
-          "position": 15.0,
-          "country": "ukr"
+          "position": 8.25,
+          "country": "ury"
         },
         {
           "clicks": 0,
@@ -11505,16 +12407,23 @@
         },
         {
           "clicks": 0,
-          "impressions": 7,
+          "impressions": 33,
           "ctr": 0.0,
-          "position": 18.4286,
+          "position": 30.5152,
           "country": "vnm"
         },
         {
           "clicks": 0,
-          "impressions": 23,
+          "impressions": 1,
           "ctr": 0.0,
-          "position": 43.3043,
+          "position": 7.0,
+          "country": "yem"
+        },
+        {
+          "clicks": 0,
+          "impressions": 61,
+          "ctr": 0.0,
+          "position": 40.5738,
           "country": "zaf"
         }
       ],
@@ -11588,6 +12497,153 @@
           "ctr": 0.885,
           "position": 13.2124,
           "date": "2026-08-10"
+        },
+        {
+          "clicks": 0,
+          "impressions": 102,
+          "ctr": 0.0,
+          "position": 12.3431,
+          "date": "2026-08-11"
+        },
+        {
+          "clicks": 1,
+          "impressions": 97,
+          "ctr": 1.0309,
+          "position": 14.6392,
+          "date": "2026-08-12"
+        },
+        {
+          "clicks": 1,
+          "impressions": 98,
+          "ctr": 1.0204,
+          "position": 11.2449,
+          "date": "2026-08-13"
+        },
+        {
+          "clicks": 0,
+          "impressions": 71,
+          "ctr": 0.0,
+          "position": 13.1549,
+          "date": "2026-08-14"
+        },
+        {
+          "clicks": 0,
+          "impressions": 78,
+          "ctr": 0.0,
+          "position": 19.9744,
+          "date": "2026-08-15"
+        },
+        {
+          "clicks": 0,
+          "impressions": 72,
+          "ctr": 0.0,
+          "position": 12.7639,
+          "date": "2026-08-16"
+        },
+        {
+          "clicks": 0,
+          "impressions": 113,
+          "ctr": 0.0,
+          "position": 15.531,
+          "date": "2026-08-17"
+        },
+        {
+          "clicks": 0,
+          "impressions": 183,
+          "ctr": 0.0,
+          "position": 11.1421,
+          "date": "2026-08-18"
+        },
+        {
+          "clicks": 0,
+          "impressions": 124,
+          "ctr": 0.0,
+          "position": 13.129,
+          "date": "2026-08-19"
+        },
+        {
+          "clicks": 1,
+          "impressions": 113,
+          "ctr": 0.885,
+          "position": 12.2566,
+          "date": "2026-08-20"
+        },
+        {
+          "clicks": 0,
+          "impressions": 69,
+          "ctr": 0.0,
+          "position": 18.8261,
+          "date": "2026-08-21"
+        },
+        {
+          "clicks": 0,
+          "impressions": 61,
+          "ctr": 0.0,
+          "position": 27.1475,
+          "date": "2026-08-22"
+        },
+        {
+          "clicks": 0,
+          "impressions": 77,
+          "ctr": 0.0,
+          "position": 14.7922,
+          "date": "2026-08-23"
+        },
+        {
+          "clicks": 0,
+          "impressions": 68,
+          "ctr": 0.0,
+          "position": 12.6765,
+          "date": "2026-08-24"
+        },
+        {
+          "clicks": 1,
+          "impressions": 79,
+          "ctr": 1.2658,
+          "position": 29.1266,
+          "date": "2026-08-25"
+        },
+        {
+          "clicks": 1,
+          "impressions": 62,
+          "ctr": 1.6129,
+          "position": 21.5968,
+          "date": "2026-08-26"
+        },
+        {
+          "clicks": 0,
+          "impressions": 51,
+          "ctr": 0.0,
+          "position": 16.6667,
+          "date": "2026-08-27"
+        },
+        {
+          "clicks": 0,
+          "impressions": 70,
+          "ctr": 0.0,
+          "position": 19.5429,
+          "date": "2026-08-28"
+        },
+        {
+          "clicks": 2,
+          "impressions": 66,
+          "ctr": 3.0303,
+          "position": 25.6212,
+          "date": "2026-08-29"
+        },
+        {
+          "clicks": 0,
+          "impressions": 75,
+          "ctr": 0.0,
+          "position": 26.8533,
+          "date": "2026-08-30"
+        },
+        {
+          "clicks": 0,
+          "impressions": 79,
+          "ctr": 0.0,
+          "position": 20.557,
+          "date": "2026-08-31"
         }
       ],
       "ga4Daily": [
@@ -11726,26 +12782,218 @@
         {
           "date": "20260812",
           "sessions": 6,
-          "engagedSessions": 0,
+          "engagedSessions": 5,
           "totalUsers": 4,
-          "screenPageViews": 11,
-          "averageSessionDuration": 23.317784,
-          "userEngagementDuration": 164,
-          "bounceRate": 1,
+          "screenPageViews": 15,
+          "averageSessionDuration": 126.090651,
+          "userEngagementDuration": 214,
+          "bounceRate": 0.166667,
           "keyEvents": 0,
-          "averageEngagementTimePerSession": 27.33
+          "averageEngagementTimePerSession": 35.67
         },
         {
           "date": "20260813",
-          "sessions": 2,
-          "engagedSessions": 0,
-          "totalUsers": 2,
-          "screenPageViews": 0,
-          "averageSessionDuration": 0,
-          "userEngagementDuration": 14,
-          "bounceRate": 1,
+          "sessions": 14,
+          "engagedSessions": 8,
+          "totalUsers": 10,
+          "screenPageViews": 20,
+          "averageSessionDuration": 133.27984,
+          "userEngagementDuration": 280,
+          "bounceRate": 0.428571,
           "keyEvents": 0,
-          "averageEngagementTimePerSession": 7.0
+          "averageEngagementTimePerSession": 20.0
+        },
+        {
+          "date": "20260814",
+          "sessions": 14,
+          "engagedSessions": 5,
+          "totalUsers": 14,
+          "screenPageViews": 21,
+          "averageSessionDuration": 153.845686,
+          "userEngagementDuration": 299,
+          "bounceRate": 0.642857,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 21.36
+        },
+        {
+          "date": "20260815",
+          "sessions": 4,
+          "engagedSessions": 4,
+          "totalUsers": 3,
+          "screenPageViews": 11,
+          "averageSessionDuration": 389.836541,
+          "userEngagementDuration": 376,
+          "bounceRate": 0,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 94.0
+        },
+        {
+          "date": "20260817",
+          "sessions": 1,
+          "engagedSessions": 1,
+          "totalUsers": 1,
+          "screenPageViews": 2,
+          "averageSessionDuration": 961.195403,
+          "userEngagementDuration": 0,
+          "bounceRate": 0,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "date": "20260818",
+          "sessions": 2,
+          "engagedSessions": 1,
+          "totalUsers": 2,
+          "screenPageViews": 3,
+          "averageSessionDuration": 20.497487,
+          "userEngagementDuration": 9,
+          "bounceRate": 0.5,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 4.5
+        },
+        {
+          "date": "20260819",
+          "sessions": 5,
+          "engagedSessions": 2,
+          "totalUsers": 4,
+          "screenPageViews": 6,
+          "averageSessionDuration": 868.445513,
+          "userEngagementDuration": 144,
+          "bounceRate": 0.6,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 28.8
+        },
+        {
+          "date": "20260820",
+          "sessions": 5,
+          "engagedSessions": 1,
+          "totalUsers": 5,
+          "screenPageViews": 6,
+          "averageSessionDuration": 6.091125,
+          "userEngagementDuration": 0,
+          "bounceRate": 0.8,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 0.0
+        },
+        {
+          "date": "20260821",
+          "sessions": 10,
+          "engagedSessions": 5,
+          "totalUsers": 8,
+          "screenPageViews": 18,
+          "averageSessionDuration": 138.409705,
+          "userEngagementDuration": 380,
+          "bounceRate": 0.5,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 38.0
+        },
+        {
+          "date": "20260822",
+          "sessions": 8,
+          "engagedSessions": 1,
+          "totalUsers": 8,
+          "screenPageViews": 8,
+          "averageSessionDuration": 3.138049,
+          "userEngagementDuration": 7,
+          "bounceRate": 0.875,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 0.88
+        },
+        {
+          "date": "20260823",
+          "sessions": 3,
+          "engagedSessions": 2,
+          "totalUsers": 2,
+          "screenPageViews": 11,
+          "averageSessionDuration": 630.647747,
+          "userEngagementDuration": 331,
+          "bounceRate": 0.333333,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 110.33
+        },
+        {
+          "date": "20260824",
+          "sessions": 4,
+          "engagedSessions": 3,
+          "totalUsers": 3,
+          "screenPageViews": 15,
+          "averageSessionDuration": 1604.537423,
+          "userEngagementDuration": 996,
+          "bounceRate": 0.25,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 249.0
+        },
+        {
+          "date": "20260825",
+          "sessions": 2,
+          "engagedSessions": 1,
+          "totalUsers": 2,
+          "screenPageViews": 6,
+          "averageSessionDuration": 267.17263,
+          "userEngagementDuration": 119,
+          "bounceRate": 0.5,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 59.5
+        },
+        {
+          "date": "20260826",
+          "sessions": 2,
+          "engagedSessions": 2,
+          "totalUsers": 2,
+          "screenPageViews": 4,
+          "averageSessionDuration": 134.658296,
+          "userEngagementDuration": 40,
+          "bounceRate": 0,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 20.0
+        },
+        {
+          "date": "20260827",
+          "sessions": 5,
+          "engagedSessions": 4,
+          "totalUsers": 5,
+          "screenPageViews": 15,
+          "averageSessionDuration": 612.334025,
+          "userEngagementDuration": 530,
+          "bounceRate": 0.2,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 106.0
+        },
+        {
+          "date": "20260828",
+          "sessions": 10,
+          "engagedSessions": 3,
+          "totalUsers": 10,
+          "screenPageViews": 14,
+          "averageSessionDuration": 125.915211,
+          "userEngagementDuration": 262,
+          "bounceRate": 0.7,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 26.2
+        },
+        {
+          "date": "20260829",
+          "sessions": 3,
+          "engagedSessions": 3,
+          "totalUsers": 3,
+          "screenPageViews": 6,
+          "averageSessionDuration": 228.314433,
+          "userEngagementDuration": 142,
+          "bounceRate": 0,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 47.33
+        },
+        {
+          "date": "20260831",
+          "sessions": 4,
+          "engagedSessions": 2,
+          "totalUsers": 4,
+          "screenPageViews": 5,
+          "averageSessionDuration": 9.318825,
+          "userEngagementDuration": 15,
+          "bounceRate": 0.5,
+          "keyEvents": 0,
+          "averageEngagementTimePerSession": 3.75
         }
       ],
       "marketKeywords": [
@@ -11772,10 +13020,20 @@
           "selection_reason": "Strong GSC visibility and direct fit with manufacturing capability",
           "keyword": "wire harness manufacturing",
           "search_volume": 880,
-          "cpc": 17.17,
+          "cpc": 16.17,
           "competition": "LOW",
-          "competition_index": 29,
+          "competition_index": 33,
           "monthly_searches": [
+            {
+              "year": 2026,
+              "month": 8,
+              "search_volume": 880
+            },
+            {
+              "year": 2026,
+              "month": 7,
+              "search_volume": 880
+            },
             {
               "year": 2026,
               "month": 6,
@@ -11825,16 +13083,6 @@
               "year": 2025,
               "month": 9,
               "search_volume": 1000
-            },
-            {
-              "year": 2025,
-              "month": 8,
-              "search_volume": 880
-            },
-            {
-              "year": 2025,
-              "month": 7,
-              "search_volume": 880
             }
           ]
         },
@@ -11847,10 +13095,20 @@
           "selection_reason": "Specific product-intent query with existing GSC exposure",
           "keyword": "shielded encoder cable",
           "search_volume": 50,
-          "cpc": 2.25,
+          "cpc": 3.73,
           "competition": "HIGH",
-          "competition_index": 82,
+          "competition_index": 91,
           "monthly_searches": [
+            {
+              "year": 2026,
+              "month": 8,
+              "search_volume": 20
+            },
+            {
+              "year": 2026,
+              "month": 7,
+              "search_volume": 30
+            },
             {
               "year": 2026,
               "month": 6,
@@ -11900,16 +13158,6 @@
               "year": 2025,
               "month": 9,
               "search_volume": 110
-            },
-            {
-              "year": 2025,
-              "month": 8,
-              "search_volume": 20
-            },
-            {
-              "year": 2025,
-              "month": 7,
-              "search_volume": 20
             }
           ]
         },
@@ -11922,10 +13170,20 @@
           "selection_reason": "Near-page-two informational-commercial opportunity with measurable GSC exposure",
           "keyword": "wire harness components",
           "search_volume": 40,
-          "cpc": null,
+          "cpc": 3.31,
           "competition": "MEDIUM",
-          "competition_index": 47,
+          "competition_index": 38,
           "monthly_searches": [
+            {
+              "year": 2026,
+              "month": 8,
+              "search_volume": 50
+            },
+            {
+              "year": 2026,
+              "month": 7,
+              "search_volume": 50
+            },
             {
               "year": 2026,
               "month": 6,
@@ -11975,16 +13233,6 @@
               "year": 2025,
               "month": 9,
               "search_volume": 50
-            },
-            {
-              "year": 2025,
-              "month": 8,
-              "search_volume": 40
-            },
-            {
-              "year": 2025,
-              "month": 7,
-              "search_volume": 50
             }
           ]
         },
@@ -11996,11 +13244,21 @@
           "position": 23.71,
           "selection_reason": "High commercial intent and close alignment with the automotive offering",
           "keyword": "automotive wiring harness manufacturers",
-          "search_volume": 210,
-          "cpc": 9.68,
+          "search_volume": 260,
+          "cpc": 6.47,
           "competition": "MEDIUM",
-          "competition_index": 40,
+          "competition_index": 37,
           "monthly_searches": [
+            {
+              "year": 2026,
+              "month": 8,
+              "search_volume": 170
+            },
+            {
+              "year": 2026,
+              "month": 7,
+              "search_volume": 590
+            },
             {
               "year": 2026,
               "month": 6,
@@ -12050,16 +13308,6 @@
               "year": 2025,
               "month": 9,
               "search_volume": 590
-            },
-            {
-              "year": 2025,
-              "month": 8,
-              "search_volume": 140
-            },
-            {
-              "year": 2025,
-              "month": 7,
-              "search_volume": 140
             }
           ]
         }
@@ -12073,10 +13321,10 @@
         "task_status_message": "Ok.",
         "organic_results": [
           {
-            "rank": 3,
+            "rank": 2,
             "domain": "www.iewc.com",
             "title": "Expert Guide to Industrial Automation Cables",
-            "url": "https://www.iewc.com/resources/technical-guide/industrial-automation-cables?srsltid=AfmBOoqxzfx1cxA73amONQ6_T7pTIC76EgPhfyw2R7mZ4HrycQ39Tlb-",
+            "url": "https://www.iewc.com/resources/technical-guide/industrial-automation-cables?srsltid=AU7gw4WGa0LRA1SjfUCTfyaDhSdlyKRCadh-tQSmjSNQ2ZN7EdbDea9s",
             "description": "Automation cables carry information and signals between machinery components to assist in the automation process. The cables and wires transmit signals to ... Read more"
           },
           {
@@ -12087,39 +13335,39 @@
             "description": "I'm an ME in a factory, and I occasionally have to do some wiring. It is all 24 volts, things like laser sensors and IO expanders and the like going ..."
           },
           {
-            "rank": 6,
+            "rank": 5,
             "domain": "literature.rockwellautomation.com",
             "title": "1770-4.1, Industrial Automation Wiring and Grounding ...",
             "url": "https://literature.rockwellautomation.com/idc/groups/literature/documents/in/1770-in041_-en-p.pdf",
-            "description": "Feb 1, 1998 — install a bonding wire. You can connect the power supply directly to the secondary of a transformer (Figures 7 and 8)."
+            "description": "Feb 1, 1998 — The raceway layout of a system is reflective of where the different types of I/O modules are placed in I/O chassis. Therefore, you. Read more"
           },
           {
             "rank": 8,
-            "domain": "jhfoster.com",
-            "title": "The Essentials of Industrial Control Panel Wiring",
-            "url": "https://jhfoster.com/automation-blogs/the-essentials-of-industrial-control-panel-wiring/",
-            "description": "Industrial control panels are used to monitor and control automated industrial equipment. Common functions include turning equipment on and off, regulating ... Read more"
-          },
-          {
-            "rank": 9,
-            "domain": "www.harting.com",
-            "title": "Industrial Automation Connectors & Cables",
-            "url": "https://www.harting.com/en-US/industrial-automation",
-            "description": "Plug-and-go connectors power more productivity, less downtime. Connector-based wiring over hardwiring has benefits at every stage of industrial machinery."
-          },
-          {
-            "rank": 10,
             "domain": "www.scribd.com",
             "title": "Industrial Automation Wiring Guide | PDF",
             "url": "https://www.scribd.com/document/980241179/Industrial-Automation-Wiring-Guide",
-            "description": "The document provides a comprehensive guide on wiring for industrial automation systems, covering power supply, PLC, VFD, servo drive, sensors, actuators, HMI,"
+            "description": "The document provides a comprehensive guide on wiring for industrial automation systems, covering power supply, PLC, VFD, servo drive, sensors, actuators, ... Read more"
+          },
+          {
+            "rank": 9,
+            "domain": "www.youtube.com",
+            "title": "Industrial Automation Basics",
+            "url": "https://www.youtube.com/playlist?list=PLRi3Vjd_TU8VSW0VIaBCwz5s_QkPWRfxb",
+            "description": "Analog Signals in Siemens PLC | Industrial Automation Basics ... How to Read Wiring Diagram | PLC Panel Wiring Diagram | Industrial Machine Layout Explained. Read more"
+          },
+          {
+            "rank": 10,
+            "domain": "www.conwire.com",
+            "title": "Factory Automation Cable & Wire | Consolidated Electronic",
+            "url": "https://www.conwire.com/applications/factory-automation-wire-cable/",
+            "description": "We provide custom-designed wire and cable solutions that meet the stringent operational demands of factory automation applications."
           },
           {
             "rank": 11,
             "domain": "www.facebook.com",
-            "title": "Industrial Automation Control Panel Setup and Wiring ...",
-            "url": "https://www.facebook.com/groups/1879351552280292/posts/4325461547669268/",
-            "description": "The wiring is color-coded: Red = positive or phase Blue = neutral Green/yellow = grounding. Industrial panel wiring plays a critical role in ..."
+            "title": "Whether you're wiring your first control panel, troubleshooting a ...",
+            "url": "https://www.facebook.com/digikey.electronics/videos/whether-youre-wiring-your-first-control-panel-troubleshooting-a-plc-or-designing/936939852784590/",
+            "description": "Whether you're wiring your first control panel, troubleshooting a PLC, or designing a complete automation system, this Field Guide to ..."
           }
         ]
       },
@@ -12127,40 +13375,40 @@
         {
           "page": "https://www.topfastwire.com/",
           "path": "/",
-          "clicks": 1,
-          "impressions": 58,
-          "ctr": 1.7241,
-          "position": 9.3966,
-          "sessions": 4,
-          "users": 4,
-          "views": 0,
-          "bounceRate": 100.0,
-          "averageSessionDuration": 0.0,
+          "clicks": 3,
+          "impressions": 175,
+          "ctr": 1.7143,
+          "position": 6.9486,
+          "sessions": 1,
+          "users": 1,
+          "views": 1,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 20.62,
           "indexVerdict": "NOT_INSPECTED",
           "coverageState": ""
         },
         {
           "page": "https://www.topfastwire.com/fiber-optic-harness-data-center-guide/",
           "path": "/fiber-optic-harness-data-center-guide",
-          "clicks": 1,
-          "impressions": 15,
-          "ctr": 6.6667,
-          "position": 19.1333,
-          "sessions": 1,
-          "users": 1,
-          "views": 1,
+          "clicks": 2,
+          "impressions": 68,
+          "ctr": 2.9412,
+          "position": 13.6029,
+          "sessions": 2,
+          "users": 2,
+          "views": 2,
           "bounceRate": 0.0,
-          "averageSessionDuration": 15.68,
+          "averageSessionDuration": 19.48,
           "indexVerdict": "NOT_INSPECTED",
           "coverageState": ""
         },
         {
           "page": "https://www.topfastwire.com/pcb-pcba-products/",
           "path": "/pcb-pcba-products",
-          "clicks": 1,
-          "impressions": 32,
-          "ctr": 3.125,
-          "position": 53.7188,
+          "clicks": 2,
+          "impressions": 71,
+          "ctr": 2.8169,
+          "position": 32.0986,
           "sessions": 2,
           "users": 2,
           "views": 4,
@@ -12170,27 +13418,57 @@
           "coverageState": ""
         },
         {
-          "page": "https://www.topfastwire.com/pt/privacy-policy/",
-          "path": "/pt/privacy-policy",
+          "page": "https://www.topfastwire.com/about-us/",
+          "path": "/about-us",
           "clicks": 1,
-          "impressions": 1,
-          "ctr": 100.0,
-          "position": 5.0,
-          "sessions": 1,
-          "users": 1,
-          "views": 1,
-          "bounceRate": 0.0,
-          "averageSessionDuration": 789.71,
+          "impressions": 49,
+          "ctr": 2.0408,
+          "position": 9.8367,
+          "sessions": 2,
+          "users": 2,
+          "views": 3,
+          "bounceRate": 50.0,
+          "averageSessionDuration": 11.45,
           "indexVerdict": "NOT_INSPECTED",
           "coverageState": ""
         },
         {
-          "page": "https://www.topfastwire.com/2026-industrial-wiring-harness-types/",
-          "path": "/2026-industrial-wiring-harness-types",
-          "clicks": 0,
-          "impressions": 1,
-          "ctr": 0.0,
-          "position": 9.0,
+          "page": "https://www.topfastwire.com/automotive-cable-harness-temperature-grade-guide/",
+          "path": "/automotive-cable-harness-temperature-grade-guide",
+          "clicks": 1,
+          "impressions": 18,
+          "ctr": 5.5556,
+          "position": 14.2222,
+          "sessions": 1,
+          "users": 1,
+          "views": 1,
+          "bounceRate": 100.0,
+          "averageSessionDuration": 8.1,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://www.topfastwire.com/automotive-wiring-harness-manufacturers-2026/",
+          "path": "/automotive-wiring-harness-manufacturers-2026",
+          "clicks": 1,
+          "impressions": 366,
+          "ctr": 0.2732,
+          "position": 9.4781,
+          "sessions": 1,
+          "users": 1,
+          "views": 3,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 183.58,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://www.topfastwire.com/contact/",
+          "path": "/contact",
+          "clicks": 1,
+          "impressions": 66,
+          "ctr": 1.5152,
+          "position": 18.1364,
           "sessions": 0,
           "users": 0,
           "views": 0,
@@ -12200,12 +13478,87 @@
           "coverageState": ""
         },
         {
-          "page": "https://www.topfastwire.com/about-us/",
-          "path": "/about-us",
+          "page": "https://www.topfastwire.com/pt/pcb-pcba-products/",
+          "path": "/pt/pcb-pcba-products",
+          "clicks": 1,
+          "impressions": 3,
+          "ctr": 33.3333,
+          "position": 9.3333,
+          "sessions": 2,
+          "users": 1,
+          "views": 4,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 17.39,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://www.topfastwire.com/pt/privacy-policy/",
+          "path": "/pt/privacy-policy",
+          "clicks": 1,
+          "impressions": 2,
+          "ctr": 50.0,
+          "position": 49.5,
+          "sessions": 1,
+          "users": 1,
+          "views": 1,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 789.71,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://www.topfastwire.com/ru/industrial-robot-harness-failure-warning-signs/",
+          "path": "/ru/industrial-robot-harness-failure-warning-signs",
+          "clicks": 1,
+          "impressions": 4,
+          "ctr": 25.0,
+          "position": 69.75,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://www.topfastwire.com/10g-to-400g-internal-cabling-data-centers/",
+          "path": "/10g-to-400g-internal-cabling-data-centers",
           "clicks": 0,
-          "impressions": 15,
+          "impressions": 1,
           "ctr": 0.0,
-          "position": 9.4,
+          "position": 1.0,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://www.topfastwire.com/2026-industrial-wiring-harness-types/",
+          "path": "/2026-industrial-wiring-harness-types",
+          "clicks": 0,
+          "impressions": 4,
+          "ctr": 0.0,
+          "position": 5.0,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://www.topfastwire.com/7-ways-custom-data-center-wiring-harnesses-improve-airflow-and-cooling/",
+          "path": "/7-ways-custom-data-center-wiring-harnesses-improve-airflow-and-cooling",
+          "clicks": 0,
+          "impressions": 3,
+          "ctr": 0.0,
+          "position": 82.6667,
           "sessions": 0,
           "users": 0,
           "views": 0,
@@ -12218,9 +13571,9 @@
           "page": "https://www.topfastwire.com/ar/",
           "path": "/ar",
           "clicks": 0,
-          "impressions": 290,
+          "impressions": 863,
           "ctr": 0.0,
-          "position": 7.3448,
+          "position": 7.9525,
           "sessions": 0,
           "users": 0,
           "views": 0,
@@ -12245,6 +13598,36 @@
           "coverageState": ""
         },
         {
+          "page": "https://www.topfastwire.com/ar/author/admin/page/6/",
+          "path": "/ar/author/admin/page/6",
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 96.0,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://www.topfastwire.com/ar/custom-medical-cable-vs-off-the-shelf/",
+          "path": "/ar/custom-medical-cable-vs-off-the-shelf",
+          "clicks": 0,
+          "impressions": 3,
+          "ctr": 0.0,
+          "position": 67.0,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
           "page": "https://www.topfastwire.com/ar/custom-telecom-wiring-harness-5g-guide/",
           "path": "/ar/custom-telecom-wiring-harness-5g-guide",
           "clicks": 0,
@@ -12260,12 +13643,42 @@
           "coverageState": ""
         },
         {
-          "page": "https://www.topfastwire.com/ar/encoder-cable-shielding-best-practices/",
-          "path": "/ar/encoder-cable-shielding-best-practices",
+          "page": "https://www.topfastwire.com/ar/drag-chain-cable-vs-standard-cable/",
+          "path": "/ar/drag-chain-cable-vs-standard-cable",
           "clicks": 0,
           "impressions": 1,
           "ctr": 0.0,
-          "position": 6.0,
+          "position": 4.0,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://www.topfastwire.com/ar/encoder-cable-shielding-best-practices/",
+          "path": "/ar/encoder-cable-shielding-best-practices",
+          "clicks": 0,
+          "impressions": 3,
+          "ctr": 0.0,
+          "position": 7.6667,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://www.topfastwire.com/ar/equipment-wiring-harness-troubleshooting-guide/",
+          "path": "/ar/equipment-wiring-harness-troubleshooting-guide",
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 10.0,
           "sessions": 0,
           "users": 0,
           "views": 0,
@@ -12278,9 +13691,9 @@
           "page": "https://www.topfastwire.com/ar/fiber-optic-harness-data-center-guide/",
           "path": "/ar/fiber-optic-harness-data-center-guide",
           "clicks": 0,
-          "impressions": 5,
+          "impressions": 7,
           "ctr": 0.0,
-          "position": 16.2,
+          "position": 16.0,
           "sessions": 0,
           "users": 0,
           "views": 0,
@@ -12311,6 +13724,36 @@
           "impressions": 1,
           "ctr": 0.0,
           "position": 22.0,
+          "sessions": 1,
+          "users": 1,
+          "views": 1,
+          "bounceRate": 100.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://www.topfastwire.com/ar/how-to-get-custom-wiring-harness-quotes-that-actually-match-your-budget/",
+          "path": "/ar/how-to-get-custom-wiring-harness-quotes-that-actually-match-your-budget",
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 30.0,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://www.topfastwire.com/ar/low-voltage-wiring-harness-mistakes-that-fail-inspection/",
+          "path": "/ar/low-voltage-wiring-harness-mistakes-that-fail-inspection",
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 54.0,
           "sessions": 0,
           "users": 0,
           "views": 0,
@@ -12338,9 +13781,24 @@
           "page": "https://www.topfastwire.com/ar/oem-wiring-harness-audit-guide/",
           "path": "/ar/oem-wiring-harness-audit-guide",
           "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 4.5,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://www.topfastwire.com/ar/plc-control-wiring-harnesses-industrial-automation-guide/",
+          "path": "/ar/plc-control-wiring-harnesses-industrial-automation-guide",
+          "clicks": 0,
           "impressions": 1,
           "ctr": 0.0,
-          "position": 5.0,
+          "position": 3.0,
           "sessions": 0,
           "users": 0,
           "views": 0,
@@ -12365,12 +13823,27 @@
           "coverageState": ""
         },
         {
+          "page": "https://www.topfastwire.com/ar/product/power-cable-of-the-data-center/",
+          "path": "/ar/product/power-cable-of-the-data-center",
+          "clicks": 0,
+          "impressions": 3,
+          "ctr": 0.0,
+          "position": 6.6667,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
           "page": "https://www.topfastwire.com/ar/product/robot-wire-harness/",
           "path": "/ar/product/robot-wire-harness",
           "clicks": 0,
-          "impressions": 2,
+          "impressions": 3,
           "ctr": 0.0,
-          "position": 4.0,
+          "position": 4.3333,
           "sessions": 0,
           "users": 0,
           "views": 0,
@@ -12425,12 +13898,27 @@
           "coverageState": ""
         },
         {
-          "page": "https://www.topfastwire.com/ar/what-is-a-wire-harness/",
-          "path": "/ar/what-is-a-wire-harness",
+          "page": "https://www.topfastwire.com/ar/washer-wire-harness-routing-that-holds-up-long-term/",
+          "path": "/ar/washer-wire-harness-routing-that-holds-up-long-term",
           "clicks": 0,
           "impressions": 1,
           "ctr": 0.0,
-          "position": 4.0,
+          "position": 51.0,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://www.topfastwire.com/ar/what-is-a-wire-harness/",
+          "path": "/ar/what-is-a-wire-harness",
+          "clicks": 0,
+          "impressions": 3,
+          "ctr": 0.0,
+          "position": 6.6667,
           "sessions": 0,
           "users": 0,
           "views": 0,
@@ -12446,10 +13934,10 @@
           "impressions": 1,
           "ctr": 0.0,
           "position": 13.0,
-          "sessions": 0,
-          "users": 0,
-          "views": 0,
-          "bounceRate": 0.0,
+          "sessions": 1,
+          "users": 1,
+          "views": 1,
+          "bounceRate": 100.0,
           "averageSessionDuration": 0.0,
           "indexVerdict": "NOT_INSPECTED",
           "coverageState": ""
@@ -12461,6 +13949,21 @@
           "impressions": 1,
           "ctr": 0.0,
           "position": 14.0,
+          "sessions": 1,
+          "users": 1,
+          "views": 1,
+          "bounceRate": 100.0,
+          "averageSessionDuration": 3.92,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://www.topfastwire.com/author/admin/",
+          "path": "/author/admin",
+          "clicks": 0,
+          "impressions": 5,
+          "ctr": 0.0,
+          "position": 7.4,
           "sessions": 0,
           "users": 0,
           "views": 0,
@@ -12470,12 +13973,57 @@
           "coverageState": ""
         },
         {
-          "page": "https://www.topfastwire.com/automotive-wiring-harness-manufacturers-2026/",
-          "path": "/automotive-wiring-harness-manufacturers-2026",
+          "page": "https://www.topfastwire.com/author/admin/page/4/",
+          "path": "/author/admin/page/4",
           "clicks": 0,
-          "impressions": 136,
+          "impressions": 3,
           "ctr": 0.0,
-          "position": 8.6544,
+          "position": 8.6667,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://www.topfastwire.com/author/admin/page/5/",
+          "path": "/author/admin/page/5",
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 1.0,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://www.topfastwire.com/author/admin/page/6/",
+          "path": "/author/admin/page/6",
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 6.0,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://www.topfastwire.com/battery-wiring-harness-ev-voltage-drop/",
+          "path": "/battery-wiring-harness-ev-voltage-drop",
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 63.5,
           "sessions": 0,
           "users": 0,
           "views": 0,
@@ -12488,9 +14036,9 @@
           "page": "https://www.topfastwire.com/blog/",
           "path": "/blog",
           "clicks": 0,
-          "impressions": 2,
+          "impressions": 9,
           "ctr": 0.0,
-          "position": 8.5,
+          "position": 12.4444,
           "sessions": 1,
           "users": 1,
           "views": 8,
@@ -12500,27 +14048,27 @@
           "coverageState": ""
         },
         {
-          "page": "https://www.topfastwire.com/contact/",
-          "path": "/contact",
+          "page": "https://www.topfastwire.com/control-panel-wiring-harness-design-mistakes/",
+          "path": "/control-panel-wiring-harness-design-mistakes",
           "clicks": 0,
-          "impressions": 13,
+          "impressions": 4,
           "ctr": 0.0,
-          "position": 23.3077,
-          "sessions": 1,
-          "users": 1,
-          "views": 2,
-          "bounceRate": 100.0,
-          "averageSessionDuration": 5.6,
+          "position": 5.5,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
           "indexVerdict": "NOT_INSPECTED",
           "coverageState": ""
         },
         {
-          "page": "https://www.topfastwire.com/control-panel-wiring-harness-design-mistakes/",
-          "path": "/control-panel-wiring-harness-design-mistakes",
+          "page": "https://www.topfastwire.com/custom-medical-cable-vs-off-the-shelf/",
+          "path": "/custom-medical-cable-vs-off-the-shelf",
           "clicks": 0,
-          "impressions": 1,
+          "impressions": 15,
           "ctr": 0.0,
-          "position": 9.0,
+          "position": 69.0667,
           "sessions": 0,
           "users": 0,
           "views": 0,
@@ -12533,9 +14081,9 @@
           "page": "https://www.topfastwire.com/custom-robot-wiring-harness-automation-production-lines/",
           "path": "/custom-robot-wiring-harness-automation-production-lines",
           "clicks": 0,
-          "impressions": 3,
+          "impressions": 10,
           "ctr": 0.0,
-          "position": 18.3333,
+          "position": 8.3,
           "sessions": 0,
           "users": 0,
           "views": 0,
@@ -12548,9 +14096,9 @@
           "page": "https://www.topfastwire.com/custom-telecom-wiring-harness-5g-guide/",
           "path": "/custom-telecom-wiring-harness-5g-guide",
           "clicks": 0,
-          "impressions": 18,
+          "impressions": 27,
           "ctr": 0.0,
-          "position": 11.8889,
+          "position": 9.6296,
           "sessions": 0,
           "users": 0,
           "views": 0,
@@ -12563,9 +14111,9 @@
           "page": "https://www.topfastwire.com/custom-wiring-harness-supplier-questions-guide/",
           "path": "/custom-wiring-harness-supplier-questions-guide",
           "clicks": 0,
-          "impressions": 4,
+          "impressions": 9,
           "ctr": 0.0,
-          "position": 37.75,
+          "position": 32.1111,
           "sessions": 1,
           "users": 1,
           "views": 3,
@@ -12578,14 +14126,14 @@
           "page": "https://www.topfastwire.com/customized/",
           "path": "/customized",
           "clicks": 0,
-          "impressions": 5,
+          "impressions": 18,
           "ctr": 0.0,
-          "position": 10.0,
-          "sessions": 2,
+          "position": 34.0,
+          "sessions": 1,
           "users": 1,
-          "views": 3,
-          "bounceRate": 100.0,
-          "averageSessionDuration": 6.89,
+          "views": 2,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 45.97,
           "indexVerdict": "NOT_INSPECTED",
           "coverageState": ""
         },
@@ -12593,9 +14141,24 @@
           "page": "https://www.topfastwire.com/de/",
           "path": "/de",
           "clicks": 0,
-          "impressions": 4,
+          "impressions": 13,
           "ctr": 0.0,
-          "position": 18.75,
+          "position": 25.6923,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://www.topfastwire.com/de/2026-industrial-wiring-harness-types/",
+          "path": "/de/2026-industrial-wiring-harness-types",
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 3.0,
           "sessions": 0,
           "users": 0,
           "views": 0,
@@ -12608,9 +14171,9 @@
           "page": "https://www.topfastwire.com/de/about-us/",
           "path": "/de/about-us",
           "clicks": 0,
-          "impressions": 3,
+          "impressions": 4,
           "ctr": 0.0,
-          "position": 87.0,
+          "position": 85.75,
           "sessions": 0,
           "users": 0,
           "views": 0,
@@ -12623,9 +14186,24 @@
           "page": "https://www.topfastwire.com/de/automotive-wiring-harness-manufacturers-2026/",
           "path": "/de/automotive-wiring-harness-manufacturers-2026",
           "clicks": 0,
-          "impressions": 10,
+          "impressions": 25,
           "ctr": 0.0,
-          "position": 9.3,
+          "position": 15.28,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://www.topfastwire.com/de/certifications-every-reliable-cable-harness-supplier-should-have/",
+          "path": "/de/certifications-every-reliable-cable-harness-supplier-should-have",
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 29.0,
           "sessions": 0,
           "users": 0,
           "views": 0,
@@ -12638,9 +14216,9 @@
           "page": "https://www.topfastwire.com/de/contact/",
           "path": "/de/contact",
           "clicks": 0,
-          "impressions": 1,
+          "impressions": 7,
           "ctr": 0.0,
-          "position": 9.0,
+          "position": 10.2857,
           "sessions": 0,
           "users": 0,
           "views": 0,
@@ -12653,14 +14231,14 @@
           "page": "https://www.topfastwire.com/de/custom-telecom-wiring-harness-5g-guide/",
           "path": "/de/custom-telecom-wiring-harness-5g-guide",
           "clicks": 0,
-          "impressions": 14,
+          "impressions": 15,
           "ctr": 0.0,
-          "position": 26.2857,
-          "sessions": 1,
-          "users": 1,
-          "views": 1,
+          "position": 26.5333,
+          "sessions": 2,
+          "users": 2,
+          "views": 2,
           "bounceRate": 100.0,
-          "averageSessionDuration": 0.0,
+          "averageSessionDuration": 1.85,
           "indexVerdict": "NOT_INSPECTED",
           "coverageState": ""
         },
@@ -12668,9 +14246,9 @@
           "page": "https://www.topfastwire.com/de/custom-wiring-harness-supplier-questions-guide/",
           "path": "/de/custom-wiring-harness-supplier-questions-guide",
           "clicks": 0,
-          "impressions": 3,
+          "impressions": 4,
           "ctr": 0.0,
-          "position": 72.0,
+          "position": 55.5,
           "sessions": 0,
           "users": 0,
           "views": 0,
@@ -12683,9 +14261,9 @@
           "page": "https://www.topfastwire.com/de/customized/",
           "path": "/de/customized",
           "clicks": 0,
-          "impressions": 2,
+          "impressions": 6,
           "ctr": 0.0,
-          "position": 66.0,
+          "position": 57.0,
           "sessions": 0,
           "users": 0,
           "views": 0,
@@ -12698,13 +14276,13 @@
           "page": "https://www.topfastwire.com/de/drag-chain-cable-vs-standard-cable/",
           "path": "/de/drag-chain-cable-vs-standard-cable",
           "clicks": 0,
-          "impressions": 1,
+          "impressions": 2,
           "ctr": 0.0,
-          "position": 4.0,
-          "sessions": 0,
-          "users": 0,
-          "views": 0,
-          "bounceRate": 0.0,
+          "position": 17.0,
+          "sessions": 1,
+          "users": 1,
+          "views": 1,
+          "bounceRate": 100.0,
           "averageSessionDuration": 0.0,
           "indexVerdict": "NOT_INSPECTED",
           "coverageState": ""
@@ -12713,14 +14291,14 @@
           "page": "https://www.topfastwire.com/de/encoder-cable-shielding-best-practices/",
           "path": "/de/encoder-cable-shielding-best-practices",
           "clicks": 0,
-          "impressions": 24,
+          "impressions": 27,
           "ctr": 0.0,
-          "position": 8.125,
-          "sessions": 1,
-          "users": 1,
-          "views": 1,
-          "bounceRate": 0.0,
-          "averageSessionDuration": 18.38,
+          "position": 10.2593,
+          "sessions": 4,
+          "users": 4,
+          "views": 4,
+          "bounceRate": 50.0,
+          "averageSessionDuration": 10.02,
           "indexVerdict": "NOT_INSPECTED",
           "coverageState": ""
         },
@@ -12728,9 +14306,9 @@
           "page": "https://www.topfastwire.com/de/fiber-optic-harness-data-center-guide/",
           "path": "/de/fiber-optic-harness-data-center-guide",
           "clicks": 0,
-          "impressions": 9,
+          "impressions": 16,
           "ctr": 0.0,
-          "position": 50.2222,
+          "position": 55.6875,
           "sessions": 0,
           "users": 0,
           "views": 0,
@@ -12743,9 +14321,39 @@
           "page": "https://www.topfastwire.com/de/high-frequency-harness-5g-base-station-guide/",
           "path": "/de/high-frequency-harness-5g-base-station-guide",
           "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 2.0,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://www.topfastwire.com/de/home-appliance-wiring-harness-specs-explained-simply/",
+          "path": "/de/home-appliance-wiring-harness-specs-explained-simply",
+          "clicks": 0,
+          "impressions": 21,
+          "ctr": 0.0,
+          "position": 46.4762,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://www.topfastwire.com/de/how-to-get-custom-wiring-harness-quotes-that-actually-match-your-budget/",
+          "path": "/de/how-to-get-custom-wiring-harness-quotes-that-actually-match-your-budget",
+          "clicks": 0,
           "impressions": 1,
           "ctr": 0.0,
-          "position": 3.0,
+          "position": 37.0,
           "sessions": 0,
           "users": 0,
           "views": 0,
@@ -12758,9 +14366,54 @@
           "page": "https://www.topfastwire.com/de/industrial-robot-harness-maintenance-guide/",
           "path": "/de/industrial-robot-harness-maintenance-guide",
           "clicks": 0,
-          "impressions": 1,
+          "impressions": 2,
           "ctr": 0.0,
           "position": 3.0,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://www.topfastwire.com/de/low-voltage-wiring-harness-mistakes-that-fail-inspection/",
+          "path": "/de/low-voltage-wiring-harness-mistakes-that-fail-inspection",
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 72.0,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://www.topfastwire.com/de/low-volume-custom-wiring-harness-minimum-order-quantity-explained/",
+          "path": "/de/low-volume-custom-wiring-harness-minimum-order-quantity-explained",
+          "clicks": 0,
+          "impressions": 5,
+          "ctr": 0.0,
+          "position": 39.4,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://www.topfastwire.com/de/medical-wire-assembly-reliability-tests/",
+          "path": "/de/medical-wire-assembly-reliability-tests",
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 1.0,
           "sessions": 0,
           "users": 0,
           "views": 0,
@@ -12773,9 +14426,9 @@
           "page": "https://www.topfastwire.com/de/pcb-pcba-products/",
           "path": "/de/pcb-pcba-products",
           "clicks": 0,
-          "impressions": 3,
+          "impressions": 6,
           "ctr": 0.0,
-          "position": 85.6667,
+          "position": 81.6667,
           "sessions": 0,
           "users": 0,
           "views": 0,
@@ -12788,9 +14441,9 @@
           "page": "https://www.topfastwire.com/de/privacy-policy/",
           "path": "/de/privacy-policy",
           "clicks": 0,
-          "impressions": 2,
+          "impressions": 4,
           "ctr": 0.0,
-          "position": 86.0,
+          "position": 84.5,
           "sessions": 0,
           "users": 0,
           "views": 0,
@@ -12803,9 +14456,9 @@
           "page": "https://www.topfastwire.com/de/product-category/automotive-industry/",
           "path": "/de/product-category/automotive-industry",
           "clicks": 0,
-          "impressions": 1,
+          "impressions": 9,
           "ctr": 0.0,
-          "position": 77.0,
+          "position": 58.6667,
           "sessions": 0,
           "users": 0,
           "views": 0,
@@ -12818,9 +14471,9 @@
           "page": "https://www.topfastwire.com/de/product-category/home-appliance-industry/",
           "path": "/de/product-category/home-appliance-industry",
           "clicks": 0,
-          "impressions": 2,
+          "impressions": 4,
           "ctr": 0.0,
-          "position": 91.0,
+          "position": 85.75,
           "sessions": 0,
           "users": 0,
           "views": 0,
@@ -12833,9 +14486,24 @@
           "page": "https://www.topfastwire.com/de/product-category/industrial-control-industry/",
           "path": "/de/product-category/industrial-control-industry",
           "clicks": 0,
-          "impressions": 1,
+          "impressions": 5,
           "ctr": 0.0,
-          "position": 79.0,
+          "position": 80.0,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://www.topfastwire.com/de/product-category/medical-industry/",
+          "path": "/de/product-category/medical-industry",
+          "clicks": 0,
+          "impressions": 3,
+          "ctr": 0.0,
+          "position": 84.3333,
           "sessions": 0,
           "users": 0,
           "views": 0,
@@ -12848,9 +14516,9 @@
           "page": "https://www.topfastwire.com/de/product-category/telecommunications-industry/",
           "path": "/de/product-category/telecommunications-industry",
           "clicks": 0,
-          "impressions": 2,
+          "impressions": 4,
           "ctr": 0.0,
-          "position": 97.0,
+          "position": 83.5,
           "sessions": 0,
           "users": 0,
           "views": 0,
@@ -12863,9 +14531,9 @@
           "page": "https://www.topfastwire.com/de/server-harness-design-hyperscale-data-center-guide/",
           "path": "/de/server-harness-design-hyperscale-data-center-guide",
           "clicks": 0,
-          "impressions": 4,
+          "impressions": 8,
           "ctr": 0.0,
-          "position": 16.5,
+          "position": 10.375,
           "sessions": 0,
           "users": 0,
           "views": 0,
@@ -12905,6 +14573,36 @@
           "coverageState": ""
         },
         {
+          "page": "https://www.topfastwire.com/de/telecom-harness-fire-rating-standards-guide/",
+          "path": "/de/telecom-harness-fire-rating-standards-guide",
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 5.0,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://www.topfastwire.com/de/what-components-make-up-a-wire-harness/",
+          "path": "/de/what-components-make-up-a-wire-harness",
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 1.0,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
           "page": "https://www.topfastwire.com/de/what-is-wire-harness-function-applications/",
           "path": "/de/what-is-wire-harness-function-applications",
           "clicks": 0,
@@ -12920,12 +14618,27 @@
           "coverageState": ""
         },
         {
+          "page": "https://www.topfastwire.com/de/wire-harness-vs-cable-assembly-differences/",
+          "path": "/de/wire-harness-vs-cable-assembly-differences",
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 6.0,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
           "page": "https://www.topfastwire.com/de/wire-vs-wire-harness-difference/",
           "path": "/de/wire-vs-wire-harness-difference",
           "clicks": 0,
-          "impressions": 3,
+          "impressions": 6,
           "ctr": 0.0,
-          "position": 3.6667,
+          "position": 17.0,
           "sessions": 0,
           "users": 0,
           "views": 0,
@@ -12938,9 +14651,9 @@
           "page": "https://www.topfastwire.com/drag-chain-cable-vs-standard-cable/",
           "path": "/drag-chain-cable-vs-standard-cable",
           "clicks": 0,
-          "impressions": 9,
+          "impressions": 14,
           "ctr": 0.0,
-          "position": 8.8889,
+          "position": 7.8571,
           "sessions": 0,
           "users": 0,
           "views": 0,
@@ -12968,9 +14681,9 @@
           "page": "https://www.topfastwire.com/equipment-wiring-harness-troubleshooting-guide/",
           "path": "/equipment-wiring-harness-troubleshooting-guide",
           "clicks": 0,
-          "impressions": 2,
+          "impressions": 5,
           "ctr": 0.0,
-          "position": 16.0,
+          "position": 7.8,
           "sessions": 0,
           "users": 0,
           "views": 0,
@@ -12983,14 +14696,14 @@
           "page": "https://www.topfastwire.com/es/",
           "path": "/es",
           "clicks": 0,
-          "impressions": 6,
+          "impressions": 29,
           "ctr": 0.0,
-          "position": 21.5,
-          "sessions": 0,
-          "users": 0,
-          "views": 0,
+          "position": 12.6552,
+          "sessions": 1,
+          "users": 1,
+          "views": 7,
           "bounceRate": 0.0,
-          "averageSessionDuration": 0.0,
+          "averageSessionDuration": 155.6,
           "indexVerdict": "NOT_INSPECTED",
           "coverageState": ""
         },
@@ -12998,9 +14711,9 @@
           "page": "https://www.topfastwire.com/es/5g-base-station-wiring-harness-guide/",
           "path": "/es/5g-base-station-wiring-harness-guide",
           "clicks": 0,
-          "impressions": 4,
+          "impressions": 10,
           "ctr": 0.0,
-          "position": 15.75,
+          "position": 13.6,
           "sessions": 0,
           "users": 0,
           "views": 0,
@@ -13013,9 +14726,54 @@
           "page": "https://www.topfastwire.com/es/about-us/",
           "path": "/es/about-us",
           "clicks": 0,
-          "impressions": 8,
+          "impressions": 15,
           "ctr": 0.0,
-          "position": 41.125,
+          "position": 35.0667,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://www.topfastwire.com/es/author/admin/page/6/",
+          "path": "/es/author/admin/page/6",
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 98.0,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://www.topfastwire.com/es/automotive-wiring-harness-manufacturers-2026/",
+          "path": "/es/automotive-wiring-harness-manufacturers-2026",
+          "clicks": 0,
+          "impressions": 4,
+          "ctr": 0.0,
+          "position": 4.5,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://www.topfastwire.com/es/battery-wiring-harness-ev-voltage-drop/",
+          "path": "/es/battery-wiring-harness-ev-voltage-drop",
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 74.0,
           "sessions": 0,
           "users": 0,
           "views": 0,
@@ -13028,9 +14786,9 @@
           "page": "https://www.topfastwire.com/es/blog/",
           "path": "/es/blog",
           "clicks": 0,
-          "impressions": 1,
+          "impressions": 5,
           "ctr": 0.0,
-          "position": 44.0,
+          "position": 112.8,
           "sessions": 0,
           "users": 0,
           "views": 0,
@@ -13043,9 +14801,24 @@
           "page": "https://www.topfastwire.com/es/contact/",
           "path": "/es/contact",
           "clicks": 0,
-          "impressions": 6,
+          "impressions": 15,
           "ctr": 0.0,
-          "position": 46.6667,
+          "position": 40.5333,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://www.topfastwire.com/es/custom-medical-cable-vs-off-the-shelf/",
+          "path": "/es/custom-medical-cable-vs-off-the-shelf",
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 40.0,
           "sessions": 0,
           "users": 0,
           "views": 0,
@@ -13073,9 +14846,9 @@
           "page": "https://www.topfastwire.com/es/custom-wiring-harness-supplier-questions-guide/",
           "path": "/es/custom-wiring-harness-supplier-questions-guide",
           "clicks": 0,
-          "impressions": 2,
+          "impressions": 5,
           "ctr": 0.0,
-          "position": 48.5,
+          "position": 23.4,
           "sessions": 0,
           "users": 0,
           "views": 0,
@@ -13088,9 +14861,9 @@
           "page": "https://www.topfastwire.com/es/customized/",
           "path": "/es/customized",
           "clicks": 0,
-          "impressions": 2,
+          "impressions": 6,
           "ctr": 0.0,
-          "position": 57.0,
+          "position": 55.6667,
           "sessions": 0,
           "users": 0,
           "views": 0,
@@ -13103,9 +14876,24 @@
           "page": "https://www.topfastwire.com/es/drag-chain-cable-vs-standard-cable/",
           "path": "/es/drag-chain-cable-vs-standard-cable",
           "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 7.0,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://www.topfastwire.com/es/encoder-cable-shielding-best-practices/",
+          "path": "/es/encoder-cable-shielding-best-practices",
+          "clicks": 0,
           "impressions": 1,
           "ctr": 0.0,
-          "position": 11.0,
+          "position": 96.0,
           "sessions": 0,
           "users": 0,
           "views": 0,
@@ -13130,12 +14918,57 @@
           "coverageState": ""
         },
         {
+          "page": "https://www.topfastwire.com/es/high-voltage-harness-selection-guide-for-industrial-applications/",
+          "path": "/es/high-voltage-harness-selection-guide-for-industrial-applications",
+          "clicks": 0,
+          "impressions": 3,
+          "ctr": 0.0,
+          "position": 44.6667,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://www.topfastwire.com/es/home-appliance-wiring-harness-specs-explained-simply/",
+          "path": "/es/home-appliance-wiring-harness-specs-explained-simply",
+          "clicks": 0,
+          "impressions": 13,
+          "ctr": 0.0,
+          "position": 56.9231,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
           "page": "https://www.topfastwire.com/es/how-are-wire-harnesses-made-process/",
           "path": "/es/how-are-wire-harnesses-made-process",
           "clicks": 0,
-          "impressions": 1,
+          "impressions": 2,
           "ctr": 0.0,
           "position": 67.0,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://www.topfastwire.com/es/how-to-get-custom-wiring-harness-quotes-that-actually-match-your-budget/",
+          "path": "/es/how-to-get-custom-wiring-harness-quotes-that-actually-match-your-budget",
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 75.0,
           "sessions": 0,
           "users": 0,
           "views": 0,
@@ -13148,9 +14981,39 @@
           "page": "https://www.topfastwire.com/es/industrial-control-wiring-harness-guide/",
           "path": "/es/industrial-control-wiring-harness-guide",
           "clicks": 0,
-          "impressions": 1,
+          "impressions": 13,
           "ctr": 0.0,
-          "position": 77.0,
+          "position": 46.0769,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://www.topfastwire.com/es/industrial-robot-wiring-harness/",
+          "path": "/es/industrial-robot-wiring-harness",
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 40.5,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://www.topfastwire.com/es/low-volume-custom-wiring-harness-minimum-order-quantity-explained/",
+          "path": "/es/low-volume-custom-wiring-harness-minimum-order-quantity-explained",
+          "clicks": 0,
+          "impressions": 3,
+          "ctr": 0.0,
+          "position": 17.0,
           "sessions": 0,
           "users": 0,
           "views": 0,
@@ -13178,13 +15041,13 @@
           "page": "https://www.topfastwire.com/es/oem-wiring-harness-audit-guide/",
           "path": "/es/oem-wiring-harness-audit-guide",
           "clicks": 0,
-          "impressions": 8,
+          "impressions": 10,
           "ctr": 0.0,
-          "position": 30.625,
-          "sessions": 0,
-          "users": 0,
-          "views": 0,
-          "bounceRate": 0.0,
+          "position": 25.1,
+          "sessions": 1,
+          "users": 1,
+          "views": 1,
+          "bounceRate": 100.0,
           "averageSessionDuration": 0.0,
           "indexVerdict": "NOT_INSPECTED",
           "coverageState": ""
@@ -13193,9 +15056,9 @@
           "page": "https://www.topfastwire.com/es/pcb-pcba-products/",
           "path": "/es/pcb-pcba-products",
           "clicks": 0,
-          "impressions": 1,
+          "impressions": 4,
           "ctr": 0.0,
-          "position": 29.0,
+          "position": 52.0,
           "sessions": 0,
           "users": 0,
           "views": 0,
@@ -13220,12 +15083,57 @@
           "coverageState": ""
         },
         {
+          "page": "https://www.topfastwire.com/es/privacy-policy/",
+          "path": "/es/privacy-policy",
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 78.0,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://www.topfastwire.com/es/product-category/aerospace-industry/",
+          "path": "/es/product-category/aerospace-industry",
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 51.5,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
           "page": "https://www.topfastwire.com/es/product-category/automotive-industry/",
           "path": "/es/product-category/automotive-industry",
           "clicks": 0,
-          "impressions": 3,
+          "impressions": 6,
           "ctr": 0.0,
-          "position": 98.0,
+          "position": 91.8333,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://www.topfastwire.com/es/product-category/home-appliance-industry/",
+          "path": "/es/product-category/home-appliance-industry",
+          "clicks": 0,
+          "impressions": 4,
+          "ctr": 0.0,
+          "position": 59.5,
           "sessions": 0,
           "users": 0,
           "views": 0,
@@ -13238,9 +15146,9 @@
           "page": "https://www.topfastwire.com/es/product-category/industrial-control-industry/",
           "path": "/es/product-category/industrial-control-industry",
           "clicks": 0,
-          "impressions": 1,
+          "impressions": 3,
           "ctr": 0.0,
-          "position": 83.0,
+          "position": 92.0,
           "sessions": 0,
           "users": 0,
           "views": 0,
@@ -13253,9 +15161,9 @@
           "page": "https://www.topfastwire.com/es/product-category/medical-industry/",
           "path": "/es/product-category/medical-industry",
           "clicks": 0,
-          "impressions": 2,
+          "impressions": 4,
           "ctr": 0.0,
-          "position": 90.0,
+          "position": 92.75,
           "sessions": 0,
           "users": 0,
           "views": 0,
@@ -13268,9 +15176,9 @@
           "page": "https://www.topfastwire.com/es/product-category/telecommunications-industry/",
           "path": "/es/product-category/telecommunications-industry",
           "clicks": 0,
-          "impressions": 3,
+          "impressions": 5,
           "ctr": 0.0,
-          "position": 84.3333,
+          "position": 73.2,
           "sessions": 0,
           "users": 0,
           "views": 0,
@@ -13295,12 +15203,72 @@
           "coverageState": ""
         },
         {
+          "page": "https://www.topfastwire.com/es/switch-wiring-harness-data-center-guide/",
+          "path": "/es/switch-wiring-harness-data-center-guide",
+          "clicks": 0,
+          "impressions": 31,
+          "ctr": 0.0,
+          "position": 46.9355,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
           "page": "https://www.topfastwire.com/es/telecom-harness-fire-rating-standards-guide/",
           "path": "/es/telecom-harness-fire-rating-standards-guide",
           "clicks": 0,
+          "impressions": 11,
+          "ctr": 0.0,
+          "position": 10.0,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://www.topfastwire.com/es/washer-wire-harness-routing-that-holds-up-long-term/",
+          "path": "/es/washer-wire-harness-routing-that-holds-up-long-term",
+          "clicks": 0,
           "impressions": 1,
           "ctr": 0.0,
-          "position": 2.0,
+          "position": 56.0,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://www.topfastwire.com/es/what-components-make-up-a-wire-harness/",
+          "path": "/es/what-components-make-up-a-wire-harness",
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 10.0,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://www.topfastwire.com/es/what-is-a-wire-harness/",
+          "path": "/es/what-is-a-wire-harness",
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 6.5,
           "sessions": 0,
           "users": 0,
           "views": 0,
@@ -13325,12 +15293,27 @@
           "coverageState": ""
         },
         {
+          "page": "https://www.topfastwire.com/es/wire-vs-wire-harness-difference/",
+          "path": "/es/wire-vs-wire-harness-difference",
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 6.0,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
           "page": "https://www.topfastwire.com/heavy-duty-harness-performance-metrics/",
           "path": "/heavy-duty-harness-performance-metrics",
           "clicks": 0,
-          "impressions": 6,
+          "impressions": 8,
           "ctr": 0.0,
-          "position": 9.6667,
+          "position": 9.0,
           "sessions": 0,
           "users": 0,
           "views": 0,
@@ -13355,12 +15338,42 @@
           "coverageState": ""
         },
         {
+          "page": "https://www.topfastwire.com/high-voltage-harness-selection-guide-for-industrial-applications/",
+          "path": "/high-voltage-harness-selection-guide-for-industrial-applications",
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 29.0,
+          "sessions": 1,
+          "users": 1,
+          "views": 1,
+          "bounceRate": 100.0,
+          "averageSessionDuration": 7.85,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://www.topfastwire.com/home-appliance-wiring-harness-specs-explained-simply/",
+          "path": "/home-appliance-wiring-harness-specs-explained-simply",
+          "clicks": 0,
+          "impressions": 4,
+          "ctr": 0.0,
+          "position": 28.5,
+          "sessions": 1,
+          "users": 1,
+          "views": 2,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 29.51,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
           "page": "https://www.topfastwire.com/how-are-wire-harnesses-made-process/",
           "path": "/how-are-wire-harnesses-made-process",
           "clicks": 0,
-          "impressions": 2,
+          "impressions": 9,
           "ctr": 0.0,
-          "position": 10.0,
+          "position": 30.8889,
           "sessions": 0,
           "users": 0,
           "views": 0,
@@ -13370,12 +15383,27 @@
           "coverageState": ""
         },
         {
+          "page": "https://www.topfastwire.com/how-to-get-custom-wiring-harness-quotes-that-actually-match-your-budget/",
+          "path": "/how-to-get-custom-wiring-harness-quotes-that-actually-match-your-budget",
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 1.0,
+          "sessions": 1,
+          "users": 1,
+          "views": 4,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 670.59,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
           "page": "https://www.topfastwire.com/industrial-cable-assembly-custom-vs-off-the-shelf-guide/",
           "path": "/industrial-cable-assembly-custom-vs-off-the-shelf-guide",
           "clicks": 0,
-          "impressions": 20,
+          "impressions": 42,
           "ctr": 0.0,
-          "position": 14.05,
+          "position": 16.0714,
           "sessions": 0,
           "users": 0,
           "views": 0,
@@ -13388,9 +15416,9 @@
           "page": "https://www.topfastwire.com/industrial-control-wiring-harness-guide/",
           "path": "/industrial-control-wiring-harness-guide",
           "clicks": 0,
-          "impressions": 2,
+          "impressions": 14,
           "ctr": 0.0,
-          "position": 8.0,
+          "position": 14.8571,
           "sessions": 0,
           "users": 0,
           "views": 0,
@@ -13403,9 +15431,9 @@
           "page": "https://www.topfastwire.com/industrial-robot-harness-failure-warning-signs/",
           "path": "/industrial-robot-harness-failure-warning-signs",
           "clicks": 0,
-          "impressions": 4,
+          "impressions": 9,
           "ctr": 0.0,
-          "position": 6.0,
+          "position": 6.3333,
           "sessions": 0,
           "users": 0,
           "views": 0,
@@ -13418,9 +15446,9 @@
           "page": "https://www.topfastwire.com/industrial-robot-harness-maintenance-guide/",
           "path": "/industrial-robot-harness-maintenance-guide",
           "clicks": 0,
-          "impressions": 2,
+          "impressions": 13,
           "ctr": 0.0,
-          "position": 6.0,
+          "position": 10.0769,
           "sessions": 0,
           "users": 0,
           "views": 0,
@@ -13433,9 +15461,24 @@
           "page": "https://www.topfastwire.com/industrial-robot-wiring-harness/",
           "path": "/industrial-robot-wiring-harness",
           "clicks": 0,
-          "impressions": 22,
+          "impressions": 113,
           "ctr": 0.0,
-          "position": 35.9091,
+          "position": 40.2035,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://www.topfastwire.com/low-volume-custom-wiring-harness-minimum-order-quantity-explained/",
+          "path": "/low-volume-custom-wiring-harness-minimum-order-quantity-explained",
+          "clicks": 0,
+          "impressions": 3,
+          "ctr": 0.0,
+          "position": 40.0,
           "sessions": 0,
           "users": 0,
           "views": 0,
@@ -13463,9 +15506,9 @@
           "page": "https://www.topfastwire.com/oem-wiring-harness-audit-guide/",
           "path": "/oem-wiring-harness-audit-guide",
           "clicks": 0,
-          "impressions": 6,
+          "impressions": 17,
           "ctr": 0.0,
-          "position": 39.0,
+          "position": 23.7059,
           "sessions": 1,
           "users": 1,
           "views": 1,
@@ -13478,9 +15521,9 @@
           "page": "https://www.topfastwire.com/plc-control-harness-vs-standard-cable/",
           "path": "/plc-control-harness-vs-standard-cable",
           "clicks": 0,
-          "impressions": 1,
+          "impressions": 2,
           "ctr": 0.0,
-          "position": 5.0,
+          "position": 3.5,
           "sessions": 0,
           "users": 0,
           "views": 0,
@@ -13493,9 +15536,9 @@
           "page": "https://www.topfastwire.com/plc-control-wiring-harnesses-industrial-automation-guide/",
           "path": "/plc-control-wiring-harnesses-industrial-automation-guide",
           "clicks": 0,
-          "impressions": 5,
+          "impressions": 10,
           "ctr": 0.0,
-          "position": 4.6,
+          "position": 5.4,
           "sessions": 0,
           "users": 0,
           "views": 0,
@@ -13523,9 +15566,9 @@
           "page": "https://www.topfastwire.com/privacy-policy/",
           "path": "/privacy-policy",
           "clicks": 0,
-          "impressions": 4,
+          "impressions": 18,
           "ctr": 0.0,
-          "position": 4.25,
+          "position": 7.7222,
           "sessions": 0,
           "users": 0,
           "views": 0,
@@ -13553,9 +15596,9 @@
           "page": "https://www.topfastwire.com/product-category/automotive-industry/",
           "path": "/product-category/automotive-industry",
           "clicks": 0,
-          "impressions": 3,
+          "impressions": 11,
           "ctr": 0.0,
-          "position": 12.3333,
+          "position": 6.4545,
           "sessions": 0,
           "users": 0,
           "views": 0,
@@ -13565,12 +15608,57 @@
           "coverageState": ""
         },
         {
-          "page": "https://www.topfastwire.com/product-category/industrial-control-industry/",
-          "path": "/product-category/industrial-control-industry",
+          "page": "https://www.topfastwire.com/product-category/home-appliance-industry/",
+          "path": "/product-category/home-appliance-industry",
           "clicks": 0,
           "impressions": 3,
           "ctr": 0.0,
-          "position": 6.0,
+          "position": 13.6667,
+          "sessions": 1,
+          "users": 1,
+          "views": 1,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 29.88,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://www.topfastwire.com/product-category/industrial-control-industry/",
+          "path": "/product-category/industrial-control-industry",
+          "clicks": 0,
+          "impressions": 4,
+          "ctr": 0.0,
+          "position": 6.25,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://www.topfastwire.com/product-category/medical-industry/",
+          "path": "/product-category/medical-industry",
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 2.0,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://www.topfastwire.com/product-category/telecommunications-industry/",
+          "path": "/product-category/telecommunications-industry",
+          "clicks": 0,
+          "impressions": 7,
+          "ctr": 0.0,
+          "position": 5.0,
           "sessions": 0,
           "users": 0,
           "views": 0,
@@ -13583,9 +15671,9 @@
           "page": "https://www.topfastwire.com/pt/",
           "path": "/pt",
           "clicks": 0,
-          "impressions": 9,
+          "impressions": 23,
           "ctr": 0.0,
-          "position": 8.1111,
+          "position": 15.4783,
           "sessions": 0,
           "users": 0,
           "views": 0,
@@ -13598,9 +15686,69 @@
           "page": "https://www.topfastwire.com/pt/about-us/",
           "path": "/pt/about-us",
           "clicks": 0,
-          "impressions": 4,
+          "impressions": 14,
           "ctr": 0.0,
-          "position": 56.25,
+          "position": 32.0714,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://www.topfastwire.com/pt/author/admin/page/6/",
+          "path": "/pt/author/admin/page/6",
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 71.0,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://www.topfastwire.com/pt/automotive-cable-harness-temperature-grade-guide/",
+          "path": "/pt/automotive-cable-harness-temperature-grade-guide",
+          "clicks": 0,
+          "impressions": 3,
+          "ctr": 0.0,
+          "position": 2.0,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://www.topfastwire.com/pt/automotive-wiring-harness-manufacturers-2026/",
+          "path": "/pt/automotive-wiring-harness-manufacturers-2026",
+          "clicks": 0,
+          "impressions": 3,
+          "ctr": 0.0,
+          "position": 23.0,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://www.topfastwire.com/pt/blog/",
+          "path": "/pt/blog",
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 6.0,
           "sessions": 0,
           "users": 0,
           "views": 0,
@@ -13613,9 +15761,24 @@
           "page": "https://www.topfastwire.com/pt/contact/",
           "path": "/pt/contact",
           "clicks": 0,
-          "impressions": 4,
+          "impressions": 10,
           "ctr": 0.0,
-          "position": 38.5,
+          "position": 46.8,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://www.topfastwire.com/pt/custom-medical-cable-vs-off-the-shelf/",
+          "path": "/pt/custom-medical-cable-vs-off-the-shelf",
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 82.0,
           "sessions": 0,
           "users": 0,
           "views": 0,
@@ -13628,9 +15791,9 @@
           "page": "https://www.topfastwire.com/pt/custom-telecom-wiring-harness-5g-guide/",
           "path": "/pt/custom-telecom-wiring-harness-5g-guide",
           "clicks": 0,
-          "impressions": 5,
+          "impressions": 21,
           "ctr": 0.0,
-          "position": 18.8,
+          "position": 9.8095,
           "sessions": 0,
           "users": 0,
           "views": 0,
@@ -13658,9 +15821,9 @@
           "page": "https://www.topfastwire.com/pt/customized/",
           "path": "/pt/customized",
           "clicks": 0,
-          "impressions": 2,
+          "impressions": 4,
           "ctr": 0.0,
-          "position": 31.0,
+          "position": 27.25,
           "sessions": 0,
           "users": 0,
           "views": 0,
@@ -13673,13 +15836,13 @@
           "page": "https://www.topfastwire.com/pt/encoder-cable-shielding-best-practices/",
           "path": "/pt/encoder-cable-shielding-best-practices",
           "clicks": 0,
-          "impressions": 1,
+          "impressions": 3,
           "ctr": 0.0,
-          "position": 7.0,
-          "sessions": 0,
-          "users": 0,
-          "views": 0,
-          "bounceRate": 0.0,
+          "position": 4.3333,
+          "sessions": 1,
+          "users": 1,
+          "views": 1,
+          "bounceRate": 100.0,
           "averageSessionDuration": 0.0,
           "indexVerdict": "NOT_INSPECTED",
           "coverageState": ""
@@ -13688,9 +15851,9 @@
           "page": "https://www.topfastwire.com/pt/fiber-optic-harness-data-center-guide/",
           "path": "/pt/fiber-optic-harness-data-center-guide",
           "clicks": 0,
-          "impressions": 3,
+          "impressions": 6,
           "ctr": 0.0,
-          "position": 63.6667,
+          "position": 33.6667,
           "sessions": 0,
           "users": 0,
           "views": 0,
@@ -13715,12 +15878,72 @@
           "coverageState": ""
         },
         {
-          "page": "https://www.topfastwire.com/pt/pcb-pcba-products/",
-          "path": "/pt/pcb-pcba-products",
+          "page": "https://www.topfastwire.com/pt/high-voltage-harness-selection-guide-for-industrial-applications/",
+          "path": "/pt/high-voltage-harness-selection-guide-for-industrial-applications",
           "clicks": 0,
           "impressions": 1,
           "ctr": 0.0,
-          "position": 3.0,
+          "position": 24.0,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://www.topfastwire.com/pt/home-appliance-wiring-harness-specs-explained-simply/",
+          "path": "/pt/home-appliance-wiring-harness-specs-explained-simply",
+          "clicks": 0,
+          "impressions": 7,
+          "ctr": 0.0,
+          "position": 57.1429,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://www.topfastwire.com/pt/industrial-robot-wiring-harness/",
+          "path": "/pt/industrial-robot-wiring-harness",
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 14.0,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://www.topfastwire.com/pt/low-volume-custom-wiring-harness-minimum-order-quantity-explained/",
+          "path": "/pt/low-volume-custom-wiring-harness-minimum-order-quantity-explained",
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 32.0,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://www.topfastwire.com/pt/medical-wire-assembly-reliability-tests/",
+          "path": "/pt/medical-wire-assembly-reliability-tests",
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 17.0,
           "sessions": 0,
           "users": 0,
           "views": 0,
@@ -13748,9 +15971,9 @@
           "page": "https://www.topfastwire.com/pt/product-category/aerospace-industry/",
           "path": "/pt/product-category/aerospace-industry",
           "clicks": 0,
-          "impressions": 3,
+          "impressions": 5,
           "ctr": 0.0,
-          "position": 90.0,
+          "position": 81.6,
           "sessions": 0,
           "users": 0,
           "views": 0,
@@ -13763,9 +15986,24 @@
           "page": "https://www.topfastwire.com/pt/product-category/automotive-industry/",
           "path": "/pt/product-category/automotive-industry",
           "clicks": 0,
-          "impressions": 3,
+          "impressions": 8,
           "ctr": 0.0,
-          "position": 54.3333,
+          "position": 54.125,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://www.topfastwire.com/pt/product-category/home-appliance-industry/",
+          "path": "/pt/product-category/home-appliance-industry",
+          "clicks": 0,
+          "impressions": 4,
+          "ctr": 0.0,
+          "position": 79.75,
           "sessions": 0,
           "users": 0,
           "views": 0,
@@ -13778,9 +16016,9 @@
           "page": "https://www.topfastwire.com/pt/product-category/industrial-control-industry/",
           "path": "/pt/product-category/industrial-control-industry",
           "clicks": 0,
-          "impressions": 2,
+          "impressions": 4,
           "ctr": 0.0,
-          "position": 75.5,
+          "position": 80.5,
           "sessions": 0,
           "users": 0,
           "views": 0,
@@ -13793,9 +16031,9 @@
           "page": "https://www.topfastwire.com/pt/product-category/medical-industry/",
           "path": "/pt/product-category/medical-industry",
           "clicks": 0,
-          "impressions": 2,
+          "impressions": 4,
           "ctr": 0.0,
-          "position": 78.0,
+          "position": 76.0,
           "sessions": 0,
           "users": 0,
           "views": 0,
@@ -13808,9 +16046,24 @@
           "page": "https://www.topfastwire.com/pt/product-category/telecommunications-industry/",
           "path": "/pt/product-category/telecommunications-industry",
           "clicks": 0,
-          "impressions": 2,
+          "impressions": 7,
           "ctr": 0.0,
-          "position": 58.5,
+          "position": 55.0,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://www.topfastwire.com/pt/product/robot-wire-harness/",
+          "path": "/pt/product/robot-wire-harness",
+          "clicks": 0,
+          "impressions": 18,
+          "ctr": 0.0,
+          "position": 23.1111,
           "sessions": 0,
           "users": 0,
           "views": 0,
@@ -13823,9 +16076,24 @@
           "page": "https://www.topfastwire.com/pt/server-harness-design-hyperscale-data-center-guide/",
           "path": "/pt/server-harness-design-hyperscale-data-center-guide",
           "clicks": 0,
-          "impressions": 4,
+          "impressions": 6,
           "ctr": 0.0,
-          "position": 19.75,
+          "position": 18.1667,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://www.topfastwire.com/pt/switch-wiring-harness-data-center-guide/",
+          "path": "/pt/switch-wiring-harness-data-center-guide",
+          "clicks": 0,
+          "impressions": 3,
+          "ctr": 0.0,
+          "position": 5.6667,
           "sessions": 0,
           "users": 0,
           "views": 0,
@@ -13838,9 +16106,39 @@
           "page": "https://www.topfastwire.com/pt/telecom-harness-fire-rating-standards-guide/",
           "path": "/pt/telecom-harness-fire-rating-standards-guide",
           "clicks": 0,
+          "impressions": 3,
+          "ctr": 0.0,
+          "position": 21.0,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://www.topfastwire.com/pt/washer-wire-harness-routing-that-holds-up-long-term/",
+          "path": "/pt/washer-wire-harness-routing-that-holds-up-long-term",
+          "clicks": 0,
           "impressions": 1,
           "ctr": 0.0,
-          "position": 38.0,
+          "position": 55.0,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://www.topfastwire.com/pt/what-is-a-wire-harness/",
+          "path": "/pt/what-is-a-wire-harness",
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 5.0,
           "sessions": 0,
           "users": 0,
           "views": 0,
@@ -13856,9 +16154,9 @@
           "impressions": 6,
           "ctr": 0.0,
           "position": 19.0,
-          "sessions": 1,
-          "users": 1,
-          "views": 1,
+          "sessions": 3,
+          "users": 3,
+          "views": 3,
           "bounceRate": 100.0,
           "averageSessionDuration": 0.0,
           "indexVerdict": "NOT_INSPECTED",
@@ -13883,9 +16181,9 @@
           "page": "https://www.topfastwire.com/ru/",
           "path": "/ru",
           "clicks": 0,
-          "impressions": 4,
+          "impressions": 16,
           "ctr": 0.0,
-          "position": 25.75,
+          "position": 14.3125,
           "sessions": 0,
           "users": 0,
           "views": 0,
@@ -13898,9 +16196,9 @@
           "page": "https://www.topfastwire.com/ru/2026-industrial-wiring-harness-types/",
           "path": "/ru/2026-industrial-wiring-harness-types",
           "clicks": 0,
-          "impressions": 2,
+          "impressions": 6,
           "ctr": 0.0,
-          "position": 3.0,
+          "position": 4.1667,
           "sessions": 0,
           "users": 0,
           "views": 0,
@@ -13913,13 +16211,13 @@
           "page": "https://www.topfastwire.com/ru/about-us/",
           "path": "/ru/about-us",
           "clicks": 0,
-          "impressions": 5,
+          "impressions": 20,
           "ctr": 0.0,
-          "position": 87.0,
+          "position": 33.75,
           "sessions": 1,
           "users": 1,
           "views": 1,
-          "bounceRate": 100.0,
+          "bounceRate": 0.0,
           "averageSessionDuration": 64.68,
           "indexVerdict": "NOT_INSPECTED",
           "coverageState": ""
@@ -13940,12 +16238,72 @@
           "coverageState": ""
         },
         {
+          "page": "https://www.topfastwire.com/ru/automotive-cable-harness-temperature-grade-guide/",
+          "path": "/ru/automotive-cable-harness-temperature-grade-guide",
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 11.5,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
           "page": "https://www.topfastwire.com/ru/automotive-wiring-harness-manufacturers-2026/",
           "path": "/ru/automotive-wiring-harness-manufacturers-2026",
           "clicks": 0,
-          "impressions": 3,
+          "impressions": 4,
           "ctr": 0.0,
-          "position": 4.6667,
+          "position": 4.5,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://www.topfastwire.com/ru/battery-wiring-harness-ev-voltage-drop/",
+          "path": "/ru/battery-wiring-harness-ev-voltage-drop",
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 49.0,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://www.topfastwire.com/ru/blog/",
+          "path": "/ru/blog",
+          "clicks": 0,
+          "impressions": 5,
+          "ctr": 0.0,
+          "position": 48.0,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://www.topfastwire.com/ru/certifications-every-reliable-cable-harness-supplier-should-have/",
+          "path": "/ru/certifications-every-reliable-cable-harness-supplier-should-have",
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 38.5,
           "sessions": 0,
           "users": 0,
           "views": 0,
@@ -13958,9 +16316,24 @@
           "page": "https://www.topfastwire.com/ru/contact/",
           "path": "/ru/contact",
           "clicks": 0,
+          "impressions": 7,
+          "ctr": 0.0,
+          "position": 53.4286,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://www.topfastwire.com/ru/custom-medical-cable-vs-off-the-shelf/",
+          "path": "/ru/custom-medical-cable-vs-off-the-shelf",
+          "clicks": 0,
           "impressions": 1,
           "ctr": 0.0,
-          "position": 69.0,
+          "position": 77.0,
           "sessions": 0,
           "users": 0,
           "views": 0,
@@ -13973,9 +16346,9 @@
           "page": "https://www.topfastwire.com/ru/custom-robot-wiring-harness-automation-production-lines/",
           "path": "/ru/custom-robot-wiring-harness-automation-production-lines",
           "clicks": 0,
-          "impressions": 3,
+          "impressions": 8,
           "ctr": 0.0,
-          "position": 51.3333,
+          "position": 44.375,
           "sessions": 0,
           "users": 0,
           "views": 0,
@@ -13988,7 +16361,7 @@
           "page": "https://www.topfastwire.com/ru/customized/",
           "path": "/ru/customized",
           "clicks": 0,
-          "impressions": 1,
+          "impressions": 4,
           "ctr": 0.0,
           "position": 37.0,
           "sessions": 0,
@@ -14003,9 +16376,9 @@
           "page": "https://www.topfastwire.com/ru/drag-chain-cable-vs-standard-cable/",
           "path": "/ru/drag-chain-cable-vs-standard-cable",
           "clicks": 0,
-          "impressions": 1,
+          "impressions": 3,
           "ctr": 0.0,
-          "position": 9.0,
+          "position": 34.3333,
           "sessions": 0,
           "users": 0,
           "views": 0,
@@ -14018,9 +16391,54 @@
           "page": "https://www.topfastwire.com/ru/encoder-cable-shielding-best-practices/",
           "path": "/ru/encoder-cable-shielding-best-practices",
           "clicks": 0,
-          "impressions": 3,
+          "impressions": 5,
           "ctr": 0.0,
-          "position": 14.6667,
+          "position": 20.6,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://www.topfastwire.com/ru/home-appliance-wiring-harness-specs-explained-simply/",
+          "path": "/ru/home-appliance-wiring-harness-specs-explained-simply",
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0.0,
+          "position": 23.0,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://www.topfastwire.com/ru/how-are-wire-harnesses-made-process/",
+          "path": "/ru/how-are-wire-harnesses-made-process",
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 10.0,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://www.topfastwire.com/ru/industrial-robot-harness-maintenance-guide/",
+          "path": "/ru/industrial-robot-harness-maintenance-guide",
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 9.0,
           "sessions": 0,
           "users": 0,
           "views": 0,
@@ -14033,9 +16451,9 @@
           "page": "https://www.topfastwire.com/ru/network-cable-harness-ai-clusters-guide/",
           "path": "/ru/network-cable-harness-ai-clusters-guide",
           "clicks": 0,
-          "impressions": 1,
+          "impressions": 2,
           "ctr": 0.0,
-          "position": 6.0,
+          "position": 5.5,
           "sessions": 0,
           "users": 0,
           "views": 0,
@@ -14048,9 +16466,9 @@
           "page": "https://www.topfastwire.com/ru/pcb-pcba-products/",
           "path": "/ru/pcb-pcba-products",
           "clicks": 0,
-          "impressions": 5,
+          "impressions": 10,
           "ctr": 0.0,
-          "position": 79.4,
+          "position": 74.2,
           "sessions": 0,
           "users": 0,
           "views": 0,
@@ -14108,9 +16526,9 @@
           "page": "https://www.topfastwire.com/ru/product-category/industrial-control-industry/",
           "path": "/ru/product-category/industrial-control-industry",
           "clicks": 0,
-          "impressions": 4,
+          "impressions": 6,
           "ctr": 0.0,
-          "position": 92.5,
+          "position": 93.8333,
           "sessions": 0,
           "users": 0,
           "views": 0,
@@ -14123,9 +16541,9 @@
           "page": "https://www.topfastwire.com/ru/product-category/medical-industry/",
           "path": "/ru/product-category/medical-industry",
           "clicks": 0,
-          "impressions": 1,
+          "impressions": 3,
           "ctr": 0.0,
-          "position": 96.0,
+          "position": 94.0,
           "sessions": 0,
           "users": 0,
           "views": 0,
@@ -14138,9 +16556,54 @@
           "page": "https://www.topfastwire.com/ru/product-category/telecommunications-industry/",
           "path": "/ru/product-category/telecommunications-industry",
           "clicks": 0,
+          "impressions": 4,
+          "ctr": 0.0,
+          "position": 82.0,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://www.topfastwire.com/ru/product/power-cable-of-the-data-center/",
+          "path": "/ru/product/power-cable-of-the-data-center",
+          "clicks": 0,
+          "impressions": 4,
+          "ctr": 0.0,
+          "position": 8.25,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://www.topfastwire.com/ru/server-harness-design-hyperscale-data-center-guide/",
+          "path": "/ru/server-harness-design-hyperscale-data-center-guide",
+          "clicks": 0,
           "impressions": 1,
           "ctr": 0.0,
-          "position": 81.0,
+          "position": 6.0,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://www.topfastwire.com/ru/switch-wiring-harness-data-center-guide/",
+          "path": "/ru/switch-wiring-harness-data-center-guide",
+          "clicks": 0,
+          "impressions": 16,
+          "ctr": 0.0,
+          "position": 24.125,
           "sessions": 0,
           "users": 0,
           "views": 0,
@@ -14153,9 +16616,24 @@
           "page": "https://www.topfastwire.com/ru/what-is-wire-harness-function-applications/",
           "path": "/ru/what-is-wire-harness-function-applications",
           "clicks": 0,
-          "impressions": 3,
+          "impressions": 12,
           "ctr": 0.0,
-          "position": 6.6667,
+          "position": 28.25,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://www.topfastwire.com/ru/wire-harness-basics-complete-guide/",
+          "path": "/ru/wire-harness-basics-complete-guide",
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 5.0,
           "sessions": 0,
           "users": 0,
           "views": 0,
@@ -14183,9 +16661,9 @@
           "page": "https://www.topfastwire.com/ru/wiring-harness-supplier-factory-tour-guide/",
           "path": "/ru/wiring-harness-supplier-factory-tour-guide",
           "clicks": 0,
-          "impressions": 2,
+          "impressions": 4,
           "ctr": 0.0,
-          "position": 11.5,
+          "position": 7.25,
           "sessions": 0,
           "users": 0,
           "views": 0,
@@ -14198,9 +16676,9 @@
           "page": "https://www.topfastwire.com/sensor-wiring-harness-industrial-automation/",
           "path": "/sensor-wiring-harness-industrial-automation",
           "clicks": 0,
-          "impressions": 10,
+          "impressions": 25,
           "ctr": 0.0,
-          "position": 23.9,
+          "position": 21.12,
           "sessions": 0,
           "users": 0,
           "views": 0,
@@ -14228,9 +16706,24 @@
           "page": "https://www.topfastwire.com/servo-motor-wiring-harness-kpis-industrial/",
           "path": "/servo-motor-wiring-harness-kpis-industrial",
           "clicks": 0,
-          "impressions": 7,
+          "impressions": 8,
           "ctr": 0.0,
-          "position": 5.4286,
+          "position": 6.625,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://www.topfastwire.com/signal-integrity-high-speed-harness-guide/",
+          "path": "/signal-integrity-high-speed-harness-guide",
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0.0,
+          "position": 26.0,
           "sessions": 0,
           "users": 0,
           "views": 0,
@@ -14243,9 +16736,9 @@
           "page": "https://www.topfastwire.com/switch-wiring-harness-data-center-guide/",
           "path": "/switch-wiring-harness-data-center-guide",
           "clicks": 0,
-          "impressions": 32,
+          "impressions": 37,
           "ctr": 0.0,
-          "position": 15.8125,
+          "position": 14.6757,
           "sessions": 1,
           "users": 1,
           "views": 1,
@@ -14258,9 +16751,9 @@
           "page": "https://www.topfastwire.com/telecom-harness-fire-rating-standards-guide/",
           "path": "/telecom-harness-fire-rating-standards-guide",
           "clicks": 0,
-          "impressions": 12,
+          "impressions": 14,
           "ctr": 0.0,
-          "position": 16.75,
+          "position": 15.2857,
           "sessions": 1,
           "users": 1,
           "views": 1,
@@ -14270,12 +16763,27 @@
           "coverageState": ""
         },
         {
+          "page": "https://www.topfastwire.com/thank-you/",
+          "path": "/thank-you",
+          "clicks": 0,
+          "impressions": 10,
+          "ctr": 0.0,
+          "position": 2.3,
+          "sessions": 0,
+          "users": 0,
+          "views": 0,
+          "bounceRate": 0.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
           "page": "https://www.topfastwire.com/what-components-make-up-a-wire-harness/",
           "path": "/what-components-make-up-a-wire-harness",
           "clicks": 0,
-          "impressions": 4,
+          "impressions": 9,
           "ctr": 0.0,
-          "position": 22.0,
+          "position": 14.6667,
           "sessions": 0,
           "users": 0,
           "views": 0,
@@ -14288,9 +16796,24 @@
           "page": "https://www.topfastwire.com/what-is-a-wire-harness/",
           "path": "/what-is-a-wire-harness",
           "clicks": 0,
-          "impressions": 1,
+          "impressions": 2,
           "ctr": 0.0,
-          "position": 7.0,
+          "position": 43.5,
+          "sessions": 1,
+          "users": 1,
+          "views": 1,
+          "bounceRate": 100.0,
+          "averageSessionDuration": 0.0,
+          "indexVerdict": "NOT_INSPECTED",
+          "coverageState": ""
+        },
+        {
+          "page": "https://www.topfastwire.com/what-is-wire-harness-function-applications/",
+          "path": "/what-is-wire-harness-function-applications",
+          "clicks": 0,
+          "impressions": 18,
+          "ctr": 0.0,
+          "position": 29.3333,
           "sessions": 0,
           "users": 0,
           "views": 0,
@@ -14300,12 +16823,12 @@
           "coverageState": ""
         },
         {
-          "page": "https://www.topfastwire.com/what-is-wire-harness-function-applications/",
-          "path": "/what-is-wire-harness-function-applications",
+          "page": "https://www.topfastwire.com/wire-harness-applications-industries/",
+          "path": "/wire-harness-applications-industries",
           "clicks": 0,
-          "impressions": 3,
+          "impressions": 1,
           "ctr": 0.0,
-          "position": 22.0,
+          "position": 11.0,
           "sessions": 0,
           "users": 0,
           "views": 0,
@@ -14318,9 +16841,9 @@
           "page": "https://www.topfastwire.com/wire-harness-basics-complete-guide/",
           "path": "/wire-harness-basics-complete-guide",
           "clicks": 0,
-          "impressions": 4,
+          "impressions": 10,
           "ctr": 0.0,
-          "position": 17.75,
+          "position": 47.4,
           "sessions": 0,
           "users": 0,
           "views": 0,
@@ -14348,13 +16871,13 @@
           "page": "https://www.topfastwire.com/wire-vs-wire-harness-difference/",
           "path": "/wire-vs-wire-harness-difference",
           "clicks": 0,
-          "impressions": 30,
+          "impressions": 87,
           "ctr": 0.0,
-          "position": 7.9333,
-          "sessions": 0,
-          "users": 0,
-          "views": 0,
-          "bounceRate": 0.0,
+          "position": 7.3103,
+          "sessions": 1,
+          "users": 1,
+          "views": 1,
+          "bounceRate": 100.0,
           "averageSessionDuration": 0.0,
           "indexVerdict": "NOT_INSPECTED",
           "coverageState": ""
@@ -14363,9 +16886,9 @@
           "page": "https://www.topfastwire.com/wiring-harness-supplier-factory-tour-guide/",
           "path": "/wiring-harness-supplier-factory-tour-guide",
           "clicks": 0,
-          "impressions": 1,
+          "impressions": 6,
           "ctr": 0.0,
-          "position": 17.0,
+          "position": 16.6667,
           "sessions": 1,
           "users": 1,
           "views": 1,
@@ -14377,9 +16900,9 @@
       ],
       "recommendations": [
         {
-          "type": "体验",
-          "target": "/",
-          "text": "排名靠前但跳出率高，建议优化内容匹配度、首屏信息与内部链接。"
+          "type": "点击率",
+          "target": "/automotive-wiring-harness-manufacturers-2026",
+          "text": "曝光较高但点击率低，建议优化标题、描述和搜索意图匹配。"
         },
         {
           "type": "点击率",
@@ -14388,18 +16911,13 @@
         },
         {
           "type": "点击率",
-          "target": "/automotive-wiring-harness-manufacturers-2026",
+          "target": "/custom-telecom-wiring-harness-5g-guide",
           "text": "曝光较高但点击率低，建议优化标题、描述和搜索意图匹配。"
         },
         {
-          "type": "体验",
-          "target": "/blog",
-          "text": "排名靠前但跳出率高，建议优化内容匹配度、首屏信息与内部链接。"
-        },
-        {
-          "type": "体验",
-          "target": "/customized",
-          "text": "排名靠前但跳出率高，建议优化内容匹配度、首屏信息与内部链接。"
+          "type": "点击率",
+          "target": "/de/automotive-wiring-harness-manufacturers-2026",
+          "text": "曝光较高但点击率低，建议优化标题、描述和搜索意图匹配。"
         },
         {
           "type": "点击率",
@@ -14408,12 +16926,17 @@
         },
         {
           "type": "点击率",
-          "target": "/industrial-cable-assembly-custom-vs-off-the-shelf-guide",
+          "target": "/de/home-appliance-wiring-harness-specs-explained-simply",
           "text": "曝光较高但点击率低，建议优化标题、描述和搜索意图匹配。"
         },
         {
           "type": "点击率",
-          "target": "/industrial-robot-wiring-harness",
+          "target": "/es",
+          "text": "曝光较高但点击率低，建议优化标题、描述和搜索意图匹配。"
+        },
+        {
+          "type": "点击率",
+          "target": "/es/switch-wiring-harness-data-center-guide",
           "text": "曝光较高但点击率低，建议优化标题、描述和搜索意图匹配。"
         }
       ]
@@ -14427,17 +16950,17 @@
         "2026-08"
       ],
       "metrics": {
-        "clicks": 41.0,
-        "impressions": 7628.0,
-        "ctr": 0.5375,
-        "averagePosition": 16.6178,
-        "sessions": 368.0,
-        "totalUsers": 266.0,
-        "pageViews": 828.0,
+        "clicks": 48.0,
+        "impressions": 9436.0,
+        "ctr": 0.5087,
+        "averagePosition": 16.6299,
+        "sessions": 461.0,
+        "totalUsers": 323.0,
+        "pageViews": 1003.0,
         "keyEvents": 3.0,
-        "bounceRate": 48.3689,
-        "averageSessionDuration": 202.1905,
-        "averageEngagementTimePerSession": 36.1718
+        "bounceRate": 47.2878,
+        "averageSessionDuration": 220.2666,
+        "averageEngagementTimePerSession": 37.4767
       }
     },
     "previous": null
@@ -14447,33 +16970,33 @@
       "2026-06-01",
       "2026-08-31"
     ],
-    "sessions": 368.0,
+    "sessions": 461.0,
     "keyEvents": 3.0,
-    "averageEngagementTimePerSession": 36.1718,
+    "averageEngagementTimePerSession": 37.4767,
     "channels": [
       {
         "sessionDefaultChannelGroup": "Direct",
-        "sessions": 205.0,
+        "sessions": 253.0,
         "keyEvents": 0.0,
-        "averageEngagementTimePerSession": 37.7869
+        "averageEngagementTimePerSession": 38.7647
       },
       {
         "sessionDefaultChannelGroup": "Organic Search",
-        "sessions": 71.0,
+        "sessions": 90.0,
         "keyEvents": 2.0,
-        "averageEngagementTimePerSession": 39.5355
+        "averageEngagementTimePerSession": 49.2227
       },
       {
         "sessionDefaultChannelGroup": "Organic Social",
-        "sessions": 46.0,
+        "sessions": 70.0,
         "keyEvents": 0.0,
-        "averageEngagementTimePerSession": 3.0222
+        "averageEngagementTimePerSession": 4.4734
       },
       {
         "sessionDefaultChannelGroup": "Referral",
-        "sessions": 24.0,
+        "sessions": 31.0,
         "keyEvents": 1.0,
-        "averageEngagementTimePerSession": 76.5867
+        "averageEngagementTimePerSession": 68.5194
       },
       {
         "sessionDefaultChannelGroup": "Paid Social",
@@ -14483,35 +17006,29 @@
       },
       {
         "sessionDefaultChannelGroup": "Unassigned",
-        "sessions": 5.0,
+        "sessions": 1.0,
         "keyEvents": 0.0,
-        "averageEngagementTimePerSession": 62.6
-      },
-      {
-        "sessionDefaultChannelGroup": "Cross-network",
-        "sessions": 2.0,
-        "keyEvents": 0.0,
-        "averageEngagementTimePerSession": 42.0
+        "averageEngagementTimePerSession": 219.0
       }
     ],
     "sources": [
       {
         "sessionSource": "(direct)",
-        "sessions": 205.0,
+        "sessions": 253.0,
         "keyEvents": 0.0,
-        "averageEngagementTimePerSession": 37.7869
+        "averageEngagementTimePerSession": 38.7647
       },
       {
         "sessionSource": "google",
-        "sessions": 65.0,
+        "sessions": 75.0,
         "keyEvents": 2.0,
-        "averageEngagementTimePerSession": 38.6323
+        "averageEngagementTimePerSession": 37.8808
       },
       {
         "sessionSource": "facebook.com",
-        "sessions": 31.0,
+        "sessions": 51.0,
         "keyEvents": 0.0,
-        "averageEngagementTimePerSession": 2.61
+        "averageEngagementTimePerSession": 2.9771
       },
       {
         "sessionSource": "fb",
@@ -14520,10 +17037,28 @@
         "averageEngagementTimePerSession": 21.77
       },
       {
+        "sessionSource": "tfoow.com",
+        "sessions": 11.0,
+        "keyEvents": 0.0,
+        "averageEngagementTimePerSession": 24.2709
+      },
+      {
+        "sessionSource": "bing",
+        "sessions": 9.0,
+        "keyEvents": 0.0,
+        "averageEngagementTimePerSession": 126.89
+      },
+      {
         "sessionSource": "kdocs.cn",
         "sessions": 9.0,
         "keyEvents": 0.0,
         "averageEngagementTimePerSession": 169.33
+      },
+      {
+        "sessionSource": "l.facebook.com",
+        "sessions": 7.0,
+        "keyEvents": 0.0,
+        "averageEngagementTimePerSession": 13.0014
       },
       {
         "sessionSource": "instagram.com",
@@ -14532,22 +17067,10 @@
         "averageEngagementTimePerSession": 7.0
       },
       {
-        "sessionSource": "l.facebook.com",
+        "sessionSource": "m.facebook.com",
         "sessions": 6.0,
         "keyEvents": 0.0,
-        "averageEngagementTimePerSession": 0.3333
-      },
-      {
-        "sessionSource": "(not set)",
-        "sessions": 5.0,
-        "keyEvents": 0.0,
-        "averageEngagementTimePerSession": 62.6
-      },
-      {
-        "sessionSource": "tfoow.com",
-        "sessions": 5.0,
-        "keyEvents": 0.0,
-        "averageEngagementTimePerSession": 0.2
+        "averageEngagementTimePerSession": 4.6667
       },
       {
         "sessionSource": "glownews.co.uk",
@@ -14562,22 +17085,16 @@
         "averageEngagementTimePerSession": 25.2525
       },
       {
-        "sessionSource": "bing",
+        "sessionSource": "l.wl.co",
         "sessions": 3.0,
         "keyEvents": 0.0,
-        "averageEngagementTimePerSession": 81.33
+        "averageEngagementTimePerSession": 36.6667
       },
       {
-        "sessionSource": "m.facebook.com",
-        "sessions": 3.0,
-        "keyEvents": 0.0,
-        "averageEngagementTimePerSession": 4.6667
-      },
-      {
-        "sessionSource": "(data not available)",
+        "sessionSource": "cn.bing.com",
         "sessions": 2.0,
         "keyEvents": 0.0,
-        "averageEngagementTimePerSession": 42.0
+        "averageEngagementTimePerSession": 165.5
       },
       {
         "sessionSource": "duckduckgo",
@@ -14586,10 +17103,10 @@
         "averageEngagementTimePerSession": 23.0
       },
       {
-        "sessionSource": "l.wl.co",
-        "sessions": 2.0,
+        "sessionSource": "(not set)",
+        "sessions": 1.0,
         "keyEvents": 0.0,
-        "averageEngagementTimePerSession": 45.0
+        "averageEngagementTimePerSession": 219.0
       },
       {
         "sessionSource": "analyleads.designdemoweb.site",
@@ -14616,6 +17133,12 @@
         "averageEngagementTimePerSession": 25.0
       },
       {
+        "sessionSource": "yandex.by",
+        "sessions": 1.0,
+        "keyEvents": 0.0,
+        "averageEngagementTimePerSession": 64.0
+      },
+      {
         "sessionSource": "yandex.kz",
         "sessions": 1.0,
         "keyEvents": 0.0,
@@ -14627,7 +17150,7 @@
     {
       "status": "warning",
       "stage": "aggregation",
-      "code": "GA4_DIMENSION_TOTAL_APPROXIMATION",
+      "code": "GA4_CHANNEL_SESSION_TOTAL_MISMATCH",
       "scope": {
         "months": [
           "2026-06",
@@ -14636,26 +17159,24 @@
         ]
       },
       "detected": {
-        "canonical_sessions": 368.0,
-        "channel_sessions": 370.0,
-        "source_sessions": 370.0,
-        "canonical_key_events": 3.0,
-        "channel_key_events": 3.0,
-        "session_tolerance": 18.4,
-        "event_tolerance": 1.0
+        "total_sessions": 461.0,
+        "channel_sessions": 462.0,
+        "difference": 1.0,
+        "difference_ratio": 0.0021691973969631237,
+        "allowed_ratio": 0.02
       },
-      "impact": "报告期 GA4 会话与关键事件继续采用无维度官方总计；渠道和来源行仅作为维度分布明细，不反向覆盖核心 KPI。",
+      "impact": "GA4 总会话和渠道行均保留官方原值；小幅近似计数差异不再阻断报告生成。",
       "safe_actions": [
-        "保留原始 GA4/GSC 归档",
-        "未用渠道行合计覆盖报告期 KPI"
+        "未改写原始归档",
+        "未调整 GA4 官方指标"
       ],
-      "next_action": "在后续报告期持续观察差异；若超过安全阈值，停止生成并复核 GA4 查询与数据质量。",
+      "next_action": "若后续差异超过 2%，请核对 GA4 查询范围、分页和响应元数据。",
       "write_state": {
         "archives": "unchanged",
         "report": "unchanged",
         "publish": "not_started"
       },
-      "user_message": "执行状态：需注意（GA4_DIMENSION_TOTAL_APPROXIMATION）。\n问题位置：第一方指标汇总。\n已验证：{\"canonical_key_events\": 3.0, \"canonical_sessions\": 368.0, \"channel_key_events\": 3.0, \"channel_sessions\": 370.0, \"event_tolerance\": 1.0, \"session_tolerance\": 18.4, \"source_sessions\": 370.0}。\n影响：报告期 GA4 会话与关键事件继续采用无维度官方总计；渠道和来源行仅作为维度分布明细，不反向覆盖核心 KPI。\n安全处理：保留原始 GA4/GSC 归档；未用渠道行合计覆盖报告期 KPI\n下一步：在后续报告期持续观察差异；若超过安全阈值，停止生成并复核 GA4 查询与数据质量。"
+      "user_message": "执行状态：需注意（GA4_CHANNEL_SESSION_TOTAL_MISMATCH）。\n问题位置：第一方指标汇总。\n已验证：{\"allowed_ratio\": 0.02, \"channel_sessions\": 462.0, \"difference\": 1.0, \"difference_ratio\": 0.0021691973969631237, \"total_sessions\": 461.0}。\n影响：GA4 总会话和渠道行均保留官方原值；小幅近似计数差异不再阻断报告生成。\n安全处理：未改写原始归档；未调整 GA4 官方指标\n下一步：若后续差异超过 2%，请核对 GA4 查询范围、分页和响应元数据。"
     },
     {
       "status": "warning",
@@ -14663,23 +17184,19 @@
       "code": "PREVIOUS_PERIOD_ARCHIVE_MISSING",
       "scope": {
         "domain": "topfastwire.com",
-        "report_months": [
+        "report_period": [
           "2026-06",
           "2026-07",
           "2026-08"
         ]
       },
       "detected": {
-        "requested_previous_months": [
+        "requested_previous_period": [
           "2026-03",
           "2026-04",
           "2026-05"
         ],
-        "missing_months": [
-          "2026-03",
-          "2026-04",
-          "2026-05"
-        ]
+        "reason": "2026-03, 2026-04, 2026-05"
       },
       "impact": "仅生成当前报告期汇总，不展示未经验证的环比或同比结论。",
       "safe_actions": [],
@@ -14689,67 +17206,17 @@
         "report": "unchanged",
         "publish": "not_started"
       },
-      "user_message": "执行状态：需注意（PREVIOUS_PERIOD_ARCHIVE_MISSING）。\n问题位置：归档校验。\n已验证：{\"missing_months\": [\"2026-03\", \"2026-04\", \"2026-05\"], \"requested_previous_months\": [\"2026-03\", \"2026-04\", \"2026-05\"]}。\n影响：仅生成当前报告期汇总，不展示未经验证的环比或同比结论。\n安全处理：未改写归档，未发布报告。\n下一步：补齐同域官方 GA4/GSC 月度归档后重新生成报告。"
-    },
-    {
-      "status": "warning",
-      "stage": "archive_validation",
-      "code": "IN_PROGRESS_MONTH_PARTIAL",
-      "scope": {
-        "domain": "topfastwire.com",
-        "report_months": [
-          "2026-06",
-          "2026-07",
-          "2026-08"
-        ]
-      },
-      "detected": {
-        "inProgress": true,
-        "naturalMonthEnd": "2026-08-31",
-        "archivePeriodEnd": "2026-08-31",
-        "ga4Through": "2026-08-13",
-        "gscThrough": "2026-08-10"
-      },
-      "impact": "报告包含尚未结束的月份；累计值只能解释为截至已采集日期的阶段性结果，不能与完整自然月直接等同。",
-      "safe_actions": [
-        "在报告周期中标注进行中",
-        "分别披露 GA4 与 GSC 的数据截至日期"
-      ],
-      "next_action": "月份结束且 Google 数据稳定后重新采集该月，再生成最终完整月份版本。",
-      "write_state": {
-        "archives": "unchanged",
-        "report": "unchanged",
-        "publish": "not_started"
-      },
-      "user_message": "执行状态：需注意（IN_PROGRESS_MONTH_PARTIAL）。\n问题位置：归档校验。\n已验证：{\"archivePeriodEnd\": \"2026-08-31\", \"ga4Through\": \"2026-08-13\", \"gscThrough\": \"2026-08-10\", \"inProgress\": true, \"naturalMonthEnd\": \"2026-08-31\"}。\n影响：报告包含尚未结束的月份；累计值只能解释为截至已采集日期的阶段性结果，不能与完整自然月直接等同。\n安全处理：在报告周期中标注进行中；分别披露 GA4 与 GSC 的数据截至日期\n下一步：月份结束且 Google 数据稳定后重新采集该月，再生成最终完整月份版本。"
+      "user_message": "执行状态：需注意（PREVIOUS_PERIOD_ARCHIVE_MISSING）。\n问题位置：归档校验。\n已验证：{\"reason\": \"2026-03, 2026-04, 2026-05\", \"requested_previous_period\": [\"2026-03\", \"2026-04\", \"2026-05\"]}。\n影响：仅生成当前报告期汇总，不展示未经验证的环比或同比结论。\n安全处理：未改写归档，未发布报告。\n下一步：补齐同域官方 GA4/GSC 月度归档后重新生成报告。"
     }
   ],
   "strategyOpportunities": {
-    "archiveMonth": "2026-08",
-    "collectedAt": "2026-08-13T11:29:03+08:00",
+    "archiveMonth": "2026-09",
+    "collectedAt": "2026-09-23T07:04:47Z",
     "location": "United States",
     "language": "English",
     "disclaimer": "第三方策略发现，不替代 GSC / GA4 / DataForSEO 核心指标。候选竞品，尚未确认。",
     "priorityOpportunities": [],
     "domainKeywords": [
-      {
-        "keyword": "wire harness definition",
-        "rank": 19,
-        "url": "https://www.topfastwire.com/what-is-a-wire-harness/",
-        "trafficEstimate": 0.297
-      },
-      {
-        "keyword": "wiring harness definition",
-        "rank": 23,
-        "url": "https://www.topfastwire.com/what-is-a-wire-harness/",
-        "trafficEstimate": 0.231
-      },
-      {
-        "keyword": "wire harness meaning",
-        "rank": 29,
-        "url": "https://www.topfastwire.com/what-is-a-wire-harness/",
-        "trafficEstimate": 0.231
-      },
       {
         "keyword": "electrical harness meaning",
         "rank": 39,
@@ -14757,10 +17224,22 @@
         "trafficEstimate": 0.231
       },
       {
+        "keyword": "cable management switch",
+        "rank": 41,
+        "url": "https://www.topfastwire.com/es/switch-wiring-harness-data-center-guide/",
+        "trafficEstimate": 0.084
+      },
+      {
+        "keyword": "wire harness certification",
+        "rank": 58,
+        "url": "https://www.topfastwire.com/es/certifications-every-reliable-cable-harness-supplier-should-have/",
+        "trafficEstimate": 0.042
+      },
+      {
         "keyword": "wiring harness problems",
         "rank": 65,
         "url": "https://www.topfastwire.com/equipment-wiring-harness-troubleshooting-guide/",
-        "trafficEstimate": 0.189
+        "trafficEstimate": 0.147
       }
     ],
     "competitorDirections": [
@@ -14772,25 +17251,13 @@
       },
       {
         "competitor": "iewc.com",
-        "keyword": "14-4 tray cable",
+        "keyword": "10 conductor 18 awg cable",
         "intent": "transactional",
         "pageType": "分类/产品专题页"
       },
       {
         "competitor": "iewc.com",
-        "keyword": "14/4 tray cable",
-        "intent": "transactional",
-        "pageType": "分类/产品专题页"
-      },
-      {
-        "competitor": "iewc.com",
-        "keyword": "12 cable",
-        "intent": "transactional",
-        "pageType": "主题聚合页"
-      },
-      {
-        "competitor": "iewc.com",
-        "keyword": "16 awg 3 conductor cable",
+        "keyword": "12 conductor 18 awg cable",
         "intent": "transactional",
         "pageType": "分类/产品专题页"
       }
@@ -14801,19 +17268,12 @@
     "typeLabel": "季度报告",
     "label": "2026-06_to_2026-08",
     "domain": "topfastwire.com",
-    "rangeLabel": "2026-06 至 2026-08（进行中；GA4 截至 2026-08-13，GSC 截至 2026-08-10）",
+    "rangeLabel": "2026-06 至 2026-08",
     "selectedMonths": [
       "2026-06",
       "2026-07",
       "2026-08"
     ],
-    "coverage": {
-      "inProgress": true,
-      "naturalMonthEnd": "2026-08-31",
-      "archivePeriodEnd": "2026-08-31",
-      "ga4Through": "2026-08-13",
-      "gscThrough": "2026-08-10"
-    },
     "comparison": {
       "label": "上个季度（2026-03 至 2026-05）",
       "available": false,
@@ -14821,23 +17281,31 @@
       "ctrDelta": 0,
       "rankDelta": 0
     },
+    "thirdParty": {
+      "dataforseo": {
+        "status": "reused"
+      },
+      "seoagent": {
+        "status": "reused"
+      }
+    },
     "actionPlans": [
       {
         "period": "1–30 天",
         "title": "提升 /automotive-wiring-harness-manufacturers-2026 的搜索点击率",
-        "copy": "完整报告期该页获得 1,994 次曝光、5 次点击，CTR 0.25%，平均排名第 10.0 位。优先优化标题、描述、首屏卖点与询盘入口。",
+        "copy": "指定报告期该页获得 2,224 次曝光、6 次点击，CTR 0.27%，平均排名第 10.0 位。优先优化标题、描述、首屏卖点与询盘入口。",
         "kpi": "观察：该页曝光、CTR、自然点击与询盘关键事件"
       },
       {
         "period": "31–60 天",
-        "title": "推进“wire harness components”的自然排名",
-        "copy": "该词在完整报告期累计 21 次曝光、0 次点击，平均排名第 21.1 位。围绕对应采购场景补充页面信息，并从相关产品与案例页建立内链。",
+        "title": "推进“sfdz industrial robot wiring harness supplier”的自然排名",
+        "copy": "该词在指定报告期累计 22 次曝光、0 次点击，平均排名第 18.1 位。围绕对应采购场景补充页面信息，并从相关产品与案例页建立内链。",
         "kpi": "观察：该词排名、曝光、自然点击与相关页面会话"
       },
       {
         "period": "61–90 天",
-        "title": "改善 / 的访问承接",
-        "copy": "完整报告期该页有 7 次会话，跳出率 71.43%。优化首屏价值说明、相关内容入口和询盘 CTA，提升访问后的下一步行动。",
+        "title": "改善 /automotive-wiring-harness-manufacturers-2026 的访问承接",
+        "copy": "指定报告期该页有 8 次会话，跳出率 50.00%。优化首屏价值说明、相关内容入口和询盘 CTA，提升访问后的下一步行动。",
         "kpi": "观察：跳出率、平均互动时长、CTA 点击与关键事件"
       }
     ]
